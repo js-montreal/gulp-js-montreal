@@ -1,0 +1,27 @@
+{
+  "num": 38,
+  "title": "Winter",
+  "on": "20140211",
+  "singleSession": true,
+  "blurb": "This month we have a single session special event. etelesolv is providing the pizza and beer and Steve will bring food for thought on front-end app architecture.",
+  "specialevent": "etelesolv-beer.html",
+  "speakers": [
+    {
+      "title": "Front-End Web App Architecture",
+      "email": "ckm2k1@gmail.com",
+      "name": "Steve Venzerul",
+      "url": "https://github.com/ckm2k1",
+      "synopsis": "Front-end apps are all the rage nowadays and the tool chain has never been better, but what's behind all the magic? what makes a modern front-end JS app tick? We will be looking at all those questions and much more.",
+      "links": [
+        {
+          "title": "Addy Osmany on front-end architecture",
+          "url": "http://addyosmani.com/largescalejavascript/"
+        },
+        {
+          "title": "Excellent e-book on developing front-end Backbone apps.",
+          "url": "http://addyosmani.github.io/backbone-fundamentals/"
+        }
+      ]
+    }
+  ]
+}

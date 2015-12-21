@@ -1,0 +1,17 @@
+{
+  "num": 35,
+  "title": "Autumn",
+  "on": "20131112",
+  "specialevent": "tribalnova-beer.html",
+  "blurb": "November brings us cold, rain and frameworks. Come for the Javascript, stay for the showdown!",
+  "speakers": [
+    {
+      "title": "Framework Showdown",
+      "email": "jason.abz@gmail.com",
+      "name": "Jason McCarrell",
+      "url": "http://www.linkedin.com/in/jasonmccarrell",
+      "synopsis": "With so many Javascript frameworks and libraries it's hard to know which one works for which scenario. Luckily Jason has redundantly built the same project using three different libraries. This presentation will compare Angular, Backbone, and Meteor using a hands-on use case of a TCG visual deck builder.",
+      "links": []
+    }
+  ]
+}

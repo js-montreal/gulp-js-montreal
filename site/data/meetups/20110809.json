@@ -1,0 +1,38 @@
+{
+  "num": 13,
+  "title": "Get organized",
+  "on": "20110809",
+  "blurb": "We all know how to write code. But what happens when the line count grows and new teammates join your project? You need structure. This month we have two presentations tackling this very subject. Cedric will present strategies for jQuery based projects of small to medium size. As for Martin, he will show us how they moved their web application codebase to a front-end centric architecture using Backbone.js.",
+  "speakers": [
+    {
+      "title": "jQuery Spaghetti, Version Sans Gras",
+      "email": "cedric_dugas@hotmail.com",
+      "name": "Cedric Dugas",
+      "url": "http://www.position-absolute.com/",
+      "synopsis": "Cedric nous démontre de simples trucs pour améliorer votre code tout en gardant la simplicité de jQuery intacte. Un entre deux pour ceux qui ne sont pas prêts à se lancer dans Backbone.js et autres frameworks plus complexes.",
+      "links": [
+        {
+          "url": "http://jquery.com",
+          "title": "jQuery"
+        }
+      ]
+    },
+    {
+      "title": "Moving Planbox to Backbone.js: What we learned",
+      "email": "martin@planbox.com",
+      "name": "Martin Drapeau",
+      "url": "http://www.planbox.com/",
+      "synopsis": "<a href=\"http://planbox.com\">Planbox</a> is web-based Agile Project management tool. Project management can quickly become quite complex and Martin and his team have discovered that <a href=\"http://documentcloud.github.com/backbone\">Backbone.js</a> has really helped them keeping things simple. Come see how they moved the MVC stack to the forefront with Backbone. Learn about the benefits and downsides. Actually there are no downsides!",
+      "links": [
+        {
+          "url": "http://documentcloud.github.com/backbone/",
+          "title": "Backbone.js"
+        },
+        {
+          "url": "http://planbox.com",
+          "title": "Planbox"
+        }
+      ]
+    }
+  ]
+}

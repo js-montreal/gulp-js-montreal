@@ -1,0 +1,17 @@
+{
+  "name": "hugogirl",
+  "version": "1.0.0",
+  "description": "data pipeline oriented static site generate",
+  "main": "decrapify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "glob": "^6.0.1",
+    "gulp": "^3.9.0",
+    "gulp-nunjucks-render": "^1.0.0",
+    "nunjucks": "^2.2.0"
+  }
+}

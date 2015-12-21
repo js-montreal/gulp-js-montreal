@@ -1,0 +1,34 @@
+{
+  "num": 31,
+  "title": "Summer",
+  "on": "20130709",
+  "blurb": "It's too hot to go play outside. Join us in Cakemail's comfortable, air-conditioned room for an evening of JavaScript.",
+  "speakers": [
+    {
+      "title": "Pump.io - Next-Gen Social Network Engine",
+      "email": "ryan@kafei.ca",
+      "name": "Ryan Weal",
+      "url": "http://www.kafei.ca/",
+      "synopsis": "Pump.io is a decentralized social network engine written in JavaScript. It lets you manage activity streams, handling protocol communication and providing a web UI with real-time updates. Ryan will explain how to join an existing pump.io instance and follow people on other instances, how pump.io’s protocols work, and show us how to setup your own pump.io server.",
+      "links": [
+        {
+          "url": "http://pump.io",
+          "title": "Pump.io - Social Network Engine"
+        }
+      ]
+    },
+    {
+      "title": "Continuous Testing with Karma",
+      "email": "danielrobertsdesign@gmail.com",
+      "name": "Daniel Roberts",
+      "url": "https://plus.google.com/102285204872951861022/posts",
+      "synopsis": "Karma is a testing framework agnostic, blazingly fast automated test runner written by the Google team behind Angular.js. Karma listens to your filesystem and runs your tests every time you save a file. Daniel will cover how with Karma, writing tests first, before code, can speed up your day-to-day development process, and turn test writing from a chore to an essential time saving practice you couldn't live without.",
+      "links": [
+        {
+          "url": "http://karma-runner.github.io/0.8/index.html",
+          "title": "Karma"
+        }
+      ]
+    }
+  ]
+}

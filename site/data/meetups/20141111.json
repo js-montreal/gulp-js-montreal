@@ -1,0 +1,35 @@
+{
+  "num": 45,
+  "title": "Cold hands, Warm data",
+  "on": "20141111",
+  "singleSession": false,
+  "blurb": "This month: Chrome extensions and Web Components. La présentation Web Components est une collaboration avec nos amis de <a href=\"http://gtugmontreal.blogspot.ca\">GDG Montreal</a>.",
+  "specialevent": false,
+  "speakers": [
+    {
+      "title": "BabelFrog, a Chrome Extension",
+      "email": "alex@evolvingweb.ca",
+      "name": "Alex Dergachev",
+      "url": "http://evolvingweb.ca",
+      "synopsis": "Alex Dergachev recently built a simple Chrome Extension called BabelFrog to help him learn languages. Alex will show us how he did this and follow up with a discussion about chrome extensions: What you can do with them, how to get started making one, and some tricks he figured out along the way.",
+      "links": [
+        {
+          "title": "BabelFrog",
+          "url": "http://babelfrog.com"
+        },
+        {
+          "title": "BabelFrog (Github)",
+          "url": "https://github.com/dergachev/babelfrog"
+        }
+      ]
+    },
+    {
+      "title": "Retour: Pourquoi et comment les Web Components?",
+      "email": "sacha.lepretre@gmail.com",
+      "name": "Sacha Leprêtre",
+      "url": "https://twitter.com/sachalepretre",
+      "synopsis": "Les Web Components (W3C) sont très prometteurs pour le web et les outils tels que Polymer, X-tag et Brick nous permettent d'en bénéficier dès à présent.<br><br>Mais qui a-t-il derrière ces librairies?<br><br>Pour éclairer nos choix technologiques, Sacha fait un retour sur sa présentation de Juin passé, avec des mise à jours importantes.",
+      "links": []
+    }
+  ]
+}

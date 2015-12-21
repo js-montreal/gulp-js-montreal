@@ -1,0 +1,26 @@
+{
+  "num": 53,
+  "title": "All things EcmaScript 6",
+  "on": "20150714",
+  "singleSession": true,
+  "blurb": "This month: join us for a scooba dive in the newly approved ES6 features, WebAssembly, ASM.js and what all these buzz words mean for the web.",
+  "speakers": [
+    {
+      "title": "ES6: Diving Deeper",
+      "email": "ckm2k1@gmail.com",
+      "name": "Steve Venzerul",
+      "url": "https://github.com/ckm2k1",
+      "synopsis": "In my previous talk we saw an intro to new ES6 features, but everything was still in flux. Now that TC39 has finally approved the draft it's time to get a good feel for what's new and exciting in ES6. Additionaly we'll discuss the latest and greatest 'WebAssembly' and what it means for Javascript.",
+      "links": [
+        {
+          "title": "Approved draft of ES6",
+          "url": "http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts"
+        },
+        {
+          "title": "Best current implementation of ES6 features. Start using it today!",
+          "url": "https://babeljs.io/"
+        }
+      ]
+    }
+  ]
+}

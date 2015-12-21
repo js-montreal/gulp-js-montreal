@@ -1,0 +1,43 @@
+{
+  "num": 54,
+  "title": "It's all fun and games",
+  "on": "20150811",
+  "singleSession": false,
+  "blurb": "This month is all about fun, as we dig into some cool frameworks used to build games in JavaScript. Get down with Osman Zeki and music games and take a trip through nostalgia land with Justin Stahlman.",
+  "speakers": [
+    {
+      "title": "Using Phaser to build a music game",
+      "email": "ozeki.media@gmail.com",
+      "name": "Osman Zeki",
+      "url": "https://github.com/osmanzeki",
+      "synopsis": "In this talk Osman will discuss how his team used Phaser to develop a browser-based HTML5 Arcade/Music game that had to run on desktops and tablets. He'll describe the cross-browser compatibility, audio-visual synchronization and performance challenges they faced and give examples of how the engine's many features were used.",
+      "links": [
+        {
+          "title": "Phaser: Desktop & Mobile HTML5 game framework",
+          "url": "http://phaser.io/"
+        },
+        {
+          "title": "Jam TFO: Le Jeu",
+          "url": "http://jam.tfo.org/jeu"
+        }
+      ]
+    },
+    {
+      "title": "Retro pixel games with ImpactJS",
+      "email": "jstahlman@mac.com",
+      "name": "Justin Stahlman",
+      "url": "http://www.stahlmandesign.com/",
+      "synopsis": "Justin has been wanting to make computer games since Space Invaders in 1982. That led him to teach himself game programming on the Apple II, then DOS, and eventually, years later, JavaScript. Retro pixel art and games are trendy again and he used the explosion of JS libraries and pixel-art nostalgia to remake some of the games of his youth -- and finally a new original game.",
+      "links": [
+        {
+          "title": "Impact: THE AWESOMEST WAY TO CREATE EVEN MORE AWESOME HTML5 GAMES!",
+          "url": "http://impactjs.com/"
+        },
+        {
+          "title": "The Dreamsong",
+          "url": "http://www.stahlmandesign.com/games/dreamsong/index.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "num": 39,
+  "title": "Winter",
+  "on": "20140311",
+  "singleSession": false,
+  "blurb": "This month, we have cats! and Functional Reactive Bindings, which sadly have no cats involved, but are very interesting nonetheless.",
+  "specialevent": "eightysix-beer.html",
+  "speakers": [
+    {
+      "title": "Cat-DNS: a DNS server that resolves everything to cats",
+      "email": "mdinculescu@gmail.com",
+      "name": "Monica Dinculescu",
+      "url": "http://notwaldorf.github.io/posts/go-cat-dns-go/",
+      "synopsis": "The internet needs more cats. DNS servers are the authority on all things internet. Therefore, the best DNS server is the one that resolves everything to cats. We'll talk about DNS servers: how they work, how your browser talks to them, and how to write a DNS server that always gives you a cat in less than 200 lines of JavaScript.",
+      "links": [
+        {
+          "title": "Github Repo",
+          "url": "https://github.com/notwaldorf/cat-dns"
+        },
+        {
+          "title": "Blog Post",
+          "url": "http://notwaldorf.github.io/posts/go-cat-dns-go/"
+        }
+      ]
+    },
+    {
+      "title": "D3 & FRB: A case study in binding and editable DataViz",
+      "email": "gina.c.cook@gmail.com",
+      "name": "Gina Cook",
+      "url": "http://gina.ilanguage.ca/",
+      "synopsis": "Functional Reactive Bindings go beyond just two-way data binding. They can gracefully bind long property paths and the contents of collections. They can also incrementally update the results of chains of queries including maps, flattened arrays, sums, and averages. In this talk I'll demo a framework agnostic graph visualization dashboard built using D3 and FRB which can be embedded in any client side app as a Bower component, or server side app as an NPM module.",
+      "links": [
+        {
+          "title": "Github Repo",
+          "url": "https://github.com/montagejs/frb"
+        },
+        {
+          "title": "Blog",
+          "url": "http://gina.ilanguage.ca/"
+        }
+      ]
+    }
+  ]
+}

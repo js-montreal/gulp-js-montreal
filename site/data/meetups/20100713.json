@@ -1,0 +1,28 @@
+{
+  "num": 5,
+  "title": "Spring is the new summer",
+  "on": "20100713",
+  "speakers": [
+    {
+      "title": "Why Software Sucks, JavaScript and you",
+      "email": "james@joyent.com",
+      "name": "James Duncan",
+      "url": "http://joyent.com",
+      "synopsis": "Why does software suck? James Duncan is going to tackle this age-old question and tell us why <i>JavaScript is the last language you'll ever need to know</i>. He is currently developing a PaaS using end to end JavaScript called SmartPlatform.",
+      "links": [
+        {
+          "url": "http://www.joyent.com/technology/smartplatform/",
+          "title": "Joyent SmartPlatform"
+        }
+      ]
+    },
+    {
+      "title": "A Quilt Of Higher-Order Functions",
+      "email": "mazesoul@gmail.com",
+      "name": "Laurent Villeneuve",
+      "url": "http://github.com/mazesoul",
+      "synopsis": "A machine-gun delivered overview of functional <a title=\"AIIIIYA\" href=\"http://en.wikipedia.org/wiki/Jutsu\">jutsu</a>.",
+      "links": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "num": 2,
+  "title": "Plugins In Your Web App: The How-To",
+  "on": "20100210",
+  "speakers": [
+    {
+      "title": "Plugins In Your Web App: The How-To",
+      "name": "Gary Haran",
+      "url": "http://talkerapp.com",
+      "email": "gary.haran@gmail.com",
+      "synopsis": "A plugin based architecture is a great way to build extensible web applications. Gary takes us through the basics and tells us more about his group chat application, Talker.",
+      "links": [
+        {
+          "url": "http://github.com/garyharan/JS-Montreal_Presentation",
+          "title": "Presentation slides & Code"
+        },
+        {
+          "url": "http://talkerapp.com",
+          "title": "Talker: Fast, intuitive and extensible group chat"
+        }
+      ]
+    }
+  ]
+}

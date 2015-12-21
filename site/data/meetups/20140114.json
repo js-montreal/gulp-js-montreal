@@ -1,0 +1,39 @@
+{
+  "num": 37,
+  "title": "Winter",
+  "on": "20140114",
+  "blurb": "Join us this month for some NodeJS goodness. Sebastien will show us a more in depth presentation on his Node powered hardware project and Rami will show us how to make Node development in Visual Studio more awesome.",
+  "specialevent": "sungard-beer.html",
+  "speakers": [
+    {
+      "title": "Mise en lumière de votre JavaScript!",
+      "email": "sabascabot@gmail.com",
+      "name": "Sebastien Cabot",
+      "url": "Missing",
+      "synopsis": "Au cours de cette heure, nous souhaitons partager avec vous notre démarche pour parvenir à contrôler une bande DEL RVB via une interface Web, et cela en n'utilisant aucun autre langage que le JavaScript. Notre but est de vous initier à la quantité phénoménale d'interactions au monde physique qui vous est accessible avec la plateforme d'expérimentation BeagleBone Black et vos connaissances JavaScript.",
+      "links": [
+        {
+          "url": "http://beagleboard.org/Products/BeagleBone",
+          "title": "The BeagleBone"
+        },
+        {
+          "url": "http://www.nodejs.com",
+          "title": "NodeJS"
+        }
+      ]
+    },
+    {
+      "title": "Turning Visual Studio into a NodeJS IDE",
+      "email": "rami.sayar@microsoft.com",
+      "name": "Rami Sayar",
+      "url": "http://wootstudio.ca",
+      "synopsis": "Rami Sayar is a Microsoft Technical Evangelist based in Montreal (@ramisayar). He will be demoing the latest tools for Node JS and Visual Studio. NTVS allows you develop and debug nodejs web apps while retaining all the IDE features and power of Visual Studio. You can manage NPM packages for your projects, perform remote debugging and more.",
+      "links": [
+        {
+          "url": "https://nodejstools.codeplex.com/",
+          "title": "NodeJS For Visual Studio"
+        }
+      ]
+    }
+  ]
+}

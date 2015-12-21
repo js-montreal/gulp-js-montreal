@@ -1,0 +1,27 @@
+{
+  "num": 39,
+  "title": "Spring",
+  "on": "20140408",
+  "singleSession": true,
+  "blurb": "Spring brings us yet another snow storm and some beautiful streams and tools to keep our minds off the weather.",
+  "specialevent": "turbulent-beer.html",
+  "speakers": [
+    {
+      "title": "Streaming the Internet of Things with Javascript.",
+      "email": "ben@plot.ly",
+      "name": "Ben Postlethwaite",
+      "url": "https://plot.ly",
+      "synopsis": "Javascript is everywhere and the maker movement is bringing affordable and hackable devices to a wider audience. At the same time Node provides us with a set of asynchronous primitives perfectly suited to wiring all of this together. Over the last few months this is exactly what we have been doing at Plotly. We want to share our experiences working with streams and real-time data in the server and client. We have some great demo's and projects so signup for Plotly and bring your laptops!",
+      "links": [
+        {
+          "title": "NPM Module",
+          "url": "https://github.com/plotly/plotly-nodejs"
+        },
+        {
+          "title": "Streaming API",
+          "url": "https://plot.ly/api/streaming/"
+        }
+      ]
+    }
+  ]
+}

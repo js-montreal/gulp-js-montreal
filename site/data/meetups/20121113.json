@@ -1,0 +1,38 @@
+{
+  "num": 25,
+  "title": "Enyo 2 + Blanket.js",
+  "on": "20121113",
+  "blurb": "Building complex web applications these days presents us a with a myriad of options. Rich, component based frameworks are one option and Enyo 2 is one of them. But you also need good tests! Discover code coverage tool Blanket.js.",
+  "speakers": [
+    {
+      "title": "Introducing the Enyo 2.0 framework",
+      "email": "olafura@olafura.com",
+      "name": "Olafur Arason",
+      "url": "https://github.com/olafura",
+      "synopsis": "Enyo 2 is a new component based JavaScript framework. It promotes a sane structure for the code and is easy to get into to make powerful applications. Olafur will also discuss his project DataControl which integrates PouchDB into Enyo to provide a seamless experience when working in offline conditions.",
+      "links": [
+        {
+          "url": "http://enyojs.com/",
+          "title": "Enyo"
+        },
+        {
+          "url": "https://github.com/olafura/datacontrol",
+          "title": "DataControl on Github"
+        }
+      ]
+    },
+    {
+      "title": "Seamless code coverage with Blanket.js",
+      "email": "hi@alexanderseville.com",
+      "name": "Alex Seville",
+      "url": "https://github.com/alex-seville",
+      "synopsis": "Blanket.js is a new open source code coverage tool for JavaScript. Currently in alpha release, it completely changes how code coverage is managed in JavaScript testing. Alex will discuss current techniques for JavaScript code coverage and the method used by Blanket.js.",
+      "links": [
+        {
+          "url": "http://migrii.github.com/blanket/",
+          "title": "Blanket.js"
+        }
+      ]
+    }
+  ]
+}

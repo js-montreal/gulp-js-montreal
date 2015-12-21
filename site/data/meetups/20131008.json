@@ -1,0 +1,46 @@
+{
+  "num": 34,
+  "title": "Autumn",
+  "on": "20131008",
+  "blurb": "This month we have 2 visiting giants. Francois from Mozilla is going to show us Persona, Mozilla's open auth system, and from Microsoft, Rami will show us how to leverage Windows Azure for Node.js applications.",
+  "speakers": [
+    {
+      "title": "Mozilla Persona",
+      "email": "francois@mozilla.com",
+      "name": "Francois Marier",
+      "url": "https://login.persona.org",
+      "synopsis": "Handling user passwords safely is hard, but replacing passwords on the web in a reasonable way is even harder. Really, this should have been in the browser all along. In this talk you we will see how Persona attempts to solve this issue.",
+      "links": [
+        {
+          "url": "https://login.persona.org",
+          "title": "Login via Persona"
+        },
+        {
+          "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Persona/Quick_Setup",
+          "title": "Persona - Quick Setup Guide"
+        },
+        {
+          "url": "http://myfavoritebeer.org",
+          "title": "My Favorite Beer"
+        }
+      ]
+    },
+    {
+      "title": "Building and Publishing Node.js Applications with Windows Azure Web Sites on OS X",
+      "email": "rami.sayar@microsoft.com",
+      "name": "Rami Sayar",
+      "url": "http://wootstudio.ca",
+      "synopsis": "In this talk, you will learn the basics of the Windows Azure Web Sites service for Node.js applications. You will see how to use the Windows Azure portal for creating a web site and then publish a \"Hello World\" Node.js application using Git. You will also learn how to use the Node.js Command-Line Tools for publishing applications. You will have an additional reason to use your free monthly Azure Credits!",
+      "links": [
+        {
+          "url": "http://wootstudio.ca",
+          "title": "WootStudio"
+        },
+        {
+          "url": "http://www.windowsazure.com",
+          "title": "Windows Azure Hosting Platform"
+        }
+      ]
+    }
+  ]
+}

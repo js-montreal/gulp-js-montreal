@@ -1,0 +1,28 @@
+{
+  "num": 4,
+  "title": "Function the Ultimate",
+  "on": "20100511",
+  "speakers": [
+    {
+      "title": "Partial application in JavaScript",
+      "email": "brapse@gmail.com",
+      "name": "Sean Braithwaite",
+      "url": "http://twitter.com/brapse",
+      "synopsis": "Partial function application is a staple of functional programming. It is easily implemented in JavaScript as Sean will show us.",
+      "links": [
+        {
+          "url": "files/partial-applications.pdf",
+          "title": "Slides [PDF]"
+        }
+      ]
+    },
+    {
+      "title": "Continuation-passing style in JavaScript",
+      "email": "vsedach@gmail.com",
+      "name": "Vladimir Sedach",
+      "url": "http://carcaddar.blogspot.com/",
+      "synopsis": "Vladimir will demonstrate how to use this technique to compile search queries.",
+      "links": []
+    }
+  ]
+}

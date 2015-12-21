@@ -1,0 +1,40 @@
+{
+  "num": 56,
+  "title": "On React",
+  "on": "20151013",
+  "singleSession": false,
+  "blurb": "<strong>We have moved!<br>This month, we will be meeting at <a href=\"https://garemtl.com/en/\">La Gare</a></strong><br><br>Our subjects: React, Flux and Redux. Come early to hangout and meet our sponsor, AppDirect. Doors will open at 6pm.",
+  "specialevent": "appdirect-beer.html",
+  "speakers": [
+    {
+      "title": "React & Flux",
+      "email": "kevin.vicrey@nexu.org",
+      "name": "Kevin Vicrey",
+      "url": "http://vickev.com/",
+      "synopsis": "<a href=\"https://facebook.github.io/react/\">React</a> and <a href=\"https://facebook.github.io/flux/\">Flux</a> are an open source library and architecture from Facebook to build web applications. Kevin will introduce these concepts and share his impressions, good and bad, after 6 months of use on a concrete project.",
+      "links": [
+        {
+          "title": "React",
+          "url": "https://facebook.github.io/react/"
+        },
+        {
+          "title": "Flux",
+          "url": "https://facebook.github.io/flux/"
+        }
+      ]
+    },
+    {
+      "title": "Redux, Flux Evolved",
+      "email": "gwwfps@gmail.com",
+      "name": "David Zhang",
+      "url": "http://github.com/gwwfps/",
+      "synopsis": "Redux is a fresh new take on a Flux-like architecture for React-based applications. Like how React and the virtual DOM enabled easily building stateless view components, Redux brings the same convenience to the rest of your application. By managing application state in the framework, all of your code can be pure functions. As you'll see, when you do that, magic happens...",
+      "links": [
+        {
+          "title": "Redux",
+          "url": "https://github.com/rackt/redux"
+        }
+      ]
+    }
+  ]
+}

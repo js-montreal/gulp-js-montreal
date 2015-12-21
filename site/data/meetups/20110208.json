@@ -1,0 +1,33 @@
+{
+  "num": 9,
+  "title": "The function object + Duck Hunt",
+  "on": "20110208",
+  "speakers": [
+    {
+      "title": "Don't skip chapter 7: A look at the Function object.",
+      "email": "mazesoul@gmail.com",
+      "name": "Laurent Villeneuve",
+      "url": "http://js-montreal.org/",
+      "synopsis": "The first time Laurent read \"Javascript, the Definitive Guide\" he skipped over chapter 7 entitled <b>Functions</b>. Bad idea. 8 years later, he won't let your make the same mistake.",
+      "links": [
+        {
+          "url": "http://oreilly.com/catalog/9780596101992",
+          "title": "Javascript: The Definitive Guide"
+        }
+      ]
+    },
+    {
+      "title": "Canards & Canvas",
+      "email": "vrenaudin@gmail.com",
+      "name": "Vincent Renaudin",
+      "url": "http://js-montreal.org/",
+      "synopsis": "Vincent brave les avocats de Nintendo pour nous expliquer comment il a reproduit le classique de notre enfance \"Duck Hunt\" sur Canvas avec plusieures librairies utiles.",
+      "links": [
+        {
+          "url": "http://duckhunt.grosbouddha.com/",
+          "title": "Duck Hunt"
+        }
+      ]
+    }
+  ]
+}

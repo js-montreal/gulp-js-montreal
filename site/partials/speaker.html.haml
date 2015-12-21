@@ -1,0 +1,18 @@
+- url = speaker["url"]
+.row
+  .col-md-12
+    %h3
+      %a(href="!{url}" target="_new")= speaker["name"]
+      %br
+      %small= speaker["title"]
+.row
+  .col-md-12
+    .synopsis
+      %a(href="!{speaker.url}" target="_new")
+        %img.gravatar(src="!{helpers.gravaturl(speaker.email)}")
+      %p
+        = speaker["synopsis"]
+      %ul.speaker-links.list-unstyled
+        :each link in speaker.links
+          %li
+            %a(href="!{link.url}" target="_new")= link["title"]

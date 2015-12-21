@@ -1,0 +1,36 @@
+{
+  "num": 58,
+  "title": "Another year of JavaScript",
+  "on": "20151208",
+  "singleSession": false,
+  "blurb": "'Server-less' webapps with webtask.io and our yearly retrospective.",
+  "specialevent": "roi-beer.html",
+  "speakers": [
+    {
+      "title": "webtask.io",
+      "email": "ggoodman@gmail.com",
+      "name": "Geoff Goodman",
+      "url": "https://twitter.com/filearts",
+      "synopsis": "Imagine you could write powerful web applications without a backend, provisioning or deployment. Using only JavaScript. Geoff will explain some of the magic behind webtask.io and how you can use it today.",
+      "links": [
+        {
+          "title": "webtask.io",
+          "url": "https://webtask.io/"
+        }
+      ]
+    },
+    {
+      "title": "This year in JavaScript",
+      "email": "contact@js-montreal.org",
+      "name": "Steve Venzerul & Bruno Carriere",
+      "url": "http://js-montreal.org/",
+      "synopsis": "Another crazy year gone by in the world of JavaScript. Join us as we go over the major trends for this year and our predictions for next year.",
+      "links": [
+        {
+          "title": "JavaScript 2015 (slides)",
+          "url": "http://slides.com/signupskm/js-2015-retrospective-5#/"
+        }
+      ]
+    }
+  ]
+}

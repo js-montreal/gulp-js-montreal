@@ -1,0 +1,24 @@
+{
+  "num": 8,
+  "title": "Backbone.js, Part 1",
+  "on": "20110111",
+  "speakers": [
+    {
+      "title": "Building a client-side MVC app with Backbone.js, Underscore and jQuery",
+      "email": "neonskimmer@gmail.com",
+      "name": "Bruno Carriere",
+      "url": "http://js-montreal.org/",
+      "synopsis": "Backbone.js is a fresh new library providing models, collections, views and controllers to client-side JavaScript applications.  Bruno is going to take us through the creation of a simple but fully functional web app using Backbone.",
+      "links": [
+        {
+          "url": "http://documentcloud.github.com/backbone/",
+          "title": "Backbone.js"
+        },
+        {
+          "url": "http://documentcloud.github.com/underscore/",
+          "title": "Underscore"
+        }
+      ]
+    }
+  ]
+}

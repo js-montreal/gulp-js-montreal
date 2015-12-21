@@ -1,0 +1,27 @@
+{
+  "num": 57,
+  "title": "JavaScript & the Internet Of Things",
+  "on": "20151110",
+  "singleSession": true,
+  "blurb": "<strong>We have moved!<br>This month, we will be meeting at <a href=\"https://garemtl.com/en/\">La Gare</a></strong><br><br>Our subject: JavaScript and the Internet of things. Just when you thought you were safe, JavaScript spreads its tentacles into your hardware. Doors open at 6pm.",
+  "specialevent": "intel-beer.html",
+  "speakers": [
+    {
+      "title": "JavaScript & Physical Computing",
+      "email": "jp@cote.cc",
+      "name": "Jean-Philippe Côté",
+      "url": "http://tangiblejs.com/",
+      "synopsis": "Jean-Philippe will show us how easy it is for JavaScripters to write code that interacts with the physical world. Using NW.js and a Phidgets I/O board, we will break out of the virtual realm and gain access to the real, tangible world. Web developers will find that venturing outside the security of the browser sandbox can be quite a thrill…",
+      "links": [
+        {
+          "title": "NW.js",
+          "url": "http://nwjs.io/"
+        },
+        {
+          "title": "Phidgets",
+          "url": "http://www.phidgets.com/"
+        }
+      ]
+    }
+  ]
+}

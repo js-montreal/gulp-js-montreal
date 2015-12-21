@@ -1,0 +1,31 @@
+{
+  "num": 41,
+  "title": "Summer",
+  "on": "20140610",
+  "singleSession": false,
+  "blurb": "Summer is in the air, and there's nothing like a nice cold serving of Javascript to keep you cool.",
+  "specialevent": false,
+  "speakers": [
+    {
+      "title": "Advanced web debugging tools",
+      "email": "kevin.vicrey@nexu.org",
+      "name": "Kevin Vicrey",
+      "url": "https://vickev.com",
+      "synopsis": "Web applications getting more and more complex, bugs and performance issues can be difficult to find out. Using breakpoints in the debugging tool is a first step, but in this talk, we will focus more on advanced features.",
+      "links": [
+        {
+          "title": "Personal Website",
+          "url": "https://vickev.com"
+        }
+      ]
+    },
+    {
+      "title": "Pourquoi et comment les Web Components?",
+      "email": "sacha.lepretre@gmail.com",
+      "name": "Sacha Leprêtre",
+      "url": "https://twitter.com/sachalepretre",
+      "synopsis": "Les Web Components (W3C) sont très prometteurs pour le web,les librairies/polyfills telle que Polymer, X-tag/ Brick nous permettent d'en bénéficier dés à présent.<br><br>Mais qui a-t-il derrière ces librairies?<br><br>Afin de nous éclairer sur des éventuels choix technologiques, Sacha va nous présenter les stratégies utilisées par celles-ci et nous donner un rapide aperçu sur Lïghtly la librairie qu'il a conçu.",
+      "links": []
+    }
+  ]
+}

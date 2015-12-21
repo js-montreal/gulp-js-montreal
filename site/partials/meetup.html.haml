@@ -1,0 +1,15 @@
+// PS: Used by the archive page, not the front index page
+- first  = meetup.speakers[0]
+- second = meetup.speakers[1]
+- meetupDate = parseDate(meetup['on'])
+.row.meetup
+  %h2
+    %small
+      = formatDate(meetupDate, "MMMM Do, YYYY")
+  .col-md-6
+    .speaker
+      = helpers.partial('speaker', { speaker: first, helpers: helpers })
+  .col-md-6
+    .speaker
+      :if second != undefined
+        = helpers.partial('speaker', { speaker: second, helpers: helpers })

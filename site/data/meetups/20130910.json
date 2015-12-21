@@ -1,0 +1,39 @@
+{
+  "num": 33,
+  "title": "Autumn",
+  "on": "20130910",
+  "specialevent": "cakemail-beer.html",
+  "blurb": "Join us this month for 2 excellent talks about data-visualization and manipulation brought to you by Plotly and Nicolas' PivotTable.",
+  "speakers": [
+    {
+      "title": "Plot.ly - D3 Magic",
+      "email": "jack@plot.ly",
+      "name": "Jack Parmer",
+      "url": "https://www.plot.ly",
+      "synopsis": "D3.js has steadily gained popularity among scientists, data journalists, and web developers and is now arguably the leading open-source tool for web visualization. This talk will discuss Plotly's integration of d3.js with UX controls that allow users greater control over vis styling and information presentation",
+      "links": [
+        {
+          "url": "https://www.plot.ly",
+          "title": "Plotly: Easily analyze data"
+        }
+      ]
+    },
+    {
+      "title": "PivotTable.js - For all your tabling needs",
+      "email": "nicolas@kruchten.com",
+      "name": "Nicolas Kruchten",
+      "url": "https://github.com/nicolaskruchten/pivottable",
+      "synopsis": "Pivot Tables and Pivot Charts are very useful interactive data analysis/visualization tools. Nicolas Kruchten from Datacratic will present his recently-open-sourced PivotTable.js component which addresses this need, and he will discuss applications and design decisions.",
+      "links": [
+        {
+          "url": "https://github.com/nicolaskruchten/pivottable",
+          "title": "PivotTable.js Repository"
+        },
+        {
+          "url": "http://nicolas.kruchten.com/content/",
+          "title": "Personal Blog"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "num": 40,
+  "title": "Spring",
+  "on": "20140513",
+  "singleSession": false,
+  "blurb": "This month, Kasper shows us some tooling tricks, and Rodric demystifies Angular.",
+  "specialevent": false,
+  "speakers": [
+    {
+      "title": "Supercharge your workflow through frontend tooling",
+      "email": "kasperisager@gmail.com",
+      "name": "Kasper Isager",
+      "url": "https://github.com/kasperisager",
+      "synopsis": "Writing Javascript applications for the browser is often a chaotic and fragmented experience. With a vast selection of technology at our disposal, bringing it all together is often time consuming and prone to error. Dependency management, code optimization, and portability are all part of the constant struggle.",
+      "links": [
+        {
+          "title": "Kasper's Github",
+          "url": "https://github.com/kasperisager"
+        },
+        {
+          "title": "Book of Modern Frontend Tooling",
+          "url": "http://tooling.github.io/book-of-modern-frontend-tooling/"
+        }
+      ]
+    },
+    {
+      "title": "Let's Talk About Angular",
+      "email": "rody@rodyhaddad.com",
+      "name": "Rodric Haddad",
+      "url": "https://twitter.com/rodyhaddad",
+      "synopsis": "With concepts like $scope, Dependency Injection and Directives, AngularJS isn't always a walk in the park for the regular JavaScript aficionado. Rodric will walk us through these concepts, along with live demos to showcase them, and a production app built on top of the framework to put it all together.",
+      "links": [
+        {
+          "title": "Personal Website",
+          "url": "http://rodyhaddad.com"
+        }
+      ]
+    }
+  ]
+}

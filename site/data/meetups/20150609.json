@@ -1,0 +1,43 @@
+{
+  "num": 52,
+  "title": "RAML + Inker",
+  "on": "20150609",
+  "singleSession": false,
+  "blurb": "This month: one more acronym you have to pretend to know about and a great new way to deal with email development without pulling your hair out.",
+  "speakers": [
+    {
+      "title": "RAML: Describe your APIs",
+      "email": "jonathan@brandicted.com",
+      "name": "Jonathan Stoikovich",
+      "url": "https://brandicted.com/",
+      "synopsis": "RESTful API Modeling Language (RAML) is a simple and succinct way of describing practically-RESTful APIs. It encourages reuse, enables discovery and pattern-sharing, and aims for merit-based emergence of best practices. This presentation will demonstrate how to generate a JavaScript client from a RAML file and use that client in your projects.",
+      "links": [
+        {
+          "title": "RAML",
+          "url": "http://raml.org/"
+        },
+        {
+          "title": "RAML generated client example",
+          "url": "https://github.com/jstoiko/raml-javascript-client"
+        }
+      ]
+    },
+    {
+      "title": "Inker: Rethinking how we manage email development & transactional delivery",
+      "email": "cedric.dugas@gmail.com",
+      "name": "Cedric Dugas",
+      "url": "http://www.position-absolute.com",
+      "synopsis": "Sujet difficile pour tout front-end dev, le développement d'email est souvent mal aimé et mépris. Voyons pourquoi nous sommes encore a faire des tables dans un monde ou les technologies front-end évolue rapidement et comment on peut améliorer ca de façons significative.",
+      "links": [
+        {
+          "title": "Inker",
+          "url": "http://inker.position-absolute.com/"
+        },
+        {
+          "title": "Rethinking how we manage email development & transactional delivery",
+          "url": "http://www.position-absolute.com/articles/trends/its-time-to-rethink-how-we-manage-email-development-delivery/"
+        }
+      ]
+    }
+  ]
+}

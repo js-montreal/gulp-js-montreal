@@ -1,0 +1,46 @@
+{
+  "num": 22,
+  "title": "JS-MONTREAL #22",
+  "on": "20120814",
+  "blurb": "After a great Node meetup, here's more cool stuff you can do with it. Also: JavaScript library favorites. I assure you there is an air conditioner where we meet.",
+  "speakers": [
+    {
+      "title": "Building assets on the fly with Node",
+      "email": "martindrapeau@gmail.com",
+      "name": "Martin Drapeau",
+      "url": "https://github.com/martindrapeau",
+      "synopsis": "Martin is going to demonstrate the technique he has been using to serve assets and templates without a 'watcher', using Node and Snockets.",
+      "links": [
+        {
+          "url": "http://www.slideshare.net/martindrapeau/building-assets-on-the-fly-with-node",
+          "title": "Slides"
+        },
+        {
+          "url": "http://nodejs.org",
+          "title": "NodeJS"
+        },
+        {
+          "url": "https://github.com/TrevorBurnham/snockets",
+          "title": "Snockets"
+        }
+      ]
+    },
+    {
+      "title": "JavaScript Tools and Frameworks Faves",
+      "email": "afilina@gmail.com",
+      "name": "Anna Filina",
+      "url": "http://annafilina.com",
+      "synopsis": "Anna will pick a few Javascript frameworks and libraries that she used on a recent project (jQuery, RaphaelJS, Plupload, etc.). And then show a quick overview of the possibilities of each and how they helped her build a mission-critical application.",
+      "links": [
+        {
+          "url": "https://speakerdeck.com/u/afilina/p/javascript-tools-and-frameworks-faves-1",
+          "title": "Slides"
+        },
+        {
+          "url": "https://github.com/afilina/demo_jsfaves",
+          "title": "Code & Examples"
+        }
+      ]
+    }
+  ]
+}

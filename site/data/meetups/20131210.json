@@ -1,0 +1,50 @@
+{
+  "num": 36,
+  "title": "Winter",
+  "on": "20131210",
+  "blurb": "Come explore the micro and the macro with these 2 beautiful WebGL/Three.js projects showcasing the human brain and the solar system",
+  "speakers": [
+    {
+      "title": "BrainBrowser",
+      "email": "tsherif@gmail.com",
+      "name": "Tarek Sherif",
+      "url": "http://www.tareksherif.ca/",
+      "synopsis": "BrainBrowser is a suite of web-based, real-time 2D and 3D visualization tools for neuroimaging data. BrainBrowser is a full JavaScript application, using WebGL (through three.js) for 3D rendering, the Canvas API for 2D rendering and Web Workers for computationally expensive data parsing tasks. It is being developed as part of the CBRAIN project at McGill University.",
+      "links": [
+        {
+          "url": "https://brainbrowser.cbrain.mcgill.ca/",
+          "title": "BrainBrowser"
+        },
+        {
+          "url": "http://www.tareksherif.ca/",
+          "title": "Personal Website"
+        },
+        {
+          "url": "http://cbrain.mcgill.ca/",
+          "title": "CBRAIN"
+        }
+      ]
+    },
+    {
+      "title": "jsOrrery - WebGL Solar System",
+      "email": "m.vezina@la-grange.ca",
+      "name": "Martin Vézina",
+      "url": "http://www.linkedin.com/profile/view?id=41886384&authType=NAME_SEARCH&authToken=lN-6&locale=fr_FR&srchid=811941431386213808084&srchindex=1&srchtotal=20&trk=vsrp_people_res_name&trkInfo=VSRPsearchId%3A811941431386213808084%2CVSRPtargetId%3A41886384%2CVSRPcmpt%3Aprimary",
+      "synopsis": "Experiments are not only fun to do, they are also a fantastic way to learn. I will walk you through an experimental project of mine : a visualization of the Solar System in 3D built with Three.js. So we will be talking about Three.js and WebGL but also physics, vector geometry, astronomy, etc. All of that in Javascript. Geek topics for a geek crowd!",
+      "links": [
+        {
+          "url": "http://lab.la-grange.ca/en/building-jsorrery-a-javascript-webgl-solar-system",
+          "title": "Solar System"
+        },
+        {
+          "url": "http://mgvez.github.io/jsorrery/",
+          "title": "Github Repo"
+        },
+        {
+          "url": "http://www.la-grange.ca",
+          "title": "Company Website"
+        }
+      ]
+    }
+  ]
+}

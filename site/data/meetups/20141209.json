@@ -1,0 +1,31 @@
+{
+  "num": 46,
+  "title": "WebVR, brings you the holidays, in 3D!",
+  "on": "20141209",
+  "singleSession": true,
+  "blurb": "Join us this holiday season in exploring the link between VR hardware like Oculus Rift and the WebVR spec experimentally implemeted in Chrome and Firefox.",
+  "specialevent": false,
+  "speakers": [
+    {
+      "title": "WebVR and Oculus Rift",
+      "email": "khoury.marc@gmail.com",
+      "name": "Marc Khoury",
+      "url": "http://www.kronos.com/",
+      "synopsis": "Virtual Reality is coming fast to the general public, with the Oculus Rift leading the charge. Together we'll look at what the Oculus Rift is, and how we can approach development for it. The WebVR API provided in Firefox and Chrome will allow us to bring VR to the web using JavaScript. In the presentation, we'll learn how to integrate VR support into a THREE.js scene so that you can start building your own VR apps",
+      "links": [
+        {
+          "title": "Oculus Rift",
+          "url": "https://www.oculus.com/"
+        },
+        {
+          "title": "What is WebVR?",
+          "url": "http://blog.tojicode.com/2014/07/bringing-vr-to-chrome.html"
+        },
+        {
+          "title": "Marc's Github",
+          "url": "https://github.com/koganei"
+        }
+      ]
+    }
+  ]
+}

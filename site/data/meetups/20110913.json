@@ -1,0 +1,38 @@
+{
+  "num": 14,
+  "title": "Userscripts, and state of JS-MONTREAL",
+  "on": "20110913",
+  "blurb": "",
+  "speakers": [
+    {
+      "title": "Userscripts: smoothing the creases of the web",
+      "email": "mathiasbaert@gmail.com",
+      "name": "Mathias Baert",
+      "url": "https://twitter.com/mathiasbaert",
+      "synopsis": "What to do when a website you frequent has these irksome little annoyances that drive you crazy? What to do when your browsing experience is repeatedly interupted by something that could be so much better if only they would fix it? Do you send the website owner an email asking to adapt his site to your tastes? No, you whip out greasemonkey and fix it with a userscript of course! Userscripts are old news. Still, I bet you're not using them quite enough. (Presentation in English)",
+      "links": [
+        {
+          "url": "http://userscripts.org/",
+          "title": "Userscripts.org"
+        },
+        {
+          "url": "https://github.com/greasemonkey/greasemonkey",
+          "title": "Greasemonkey (on Github)"
+        }
+      ]
+    },
+    {
+      "title": "State of the JS-MONTREAL address",
+      "email": "neonskimmer@gmail.com",
+      "name": "Bruno Carriere & Everyone else",
+      "url": "https://twitter.com/jsmontreal",
+      "synopsis": "We're quickly closing in on <em>two years</em> of JS-MONTREAL. Let's talk about what we want to see more of, less of and new things we want to accomplish over the next few months. Also we need halp! Are you interested in volunteering your time to make JS-MONTREAL better? It's a good time to get involved.",
+      "links": [
+        {
+          "url": "http://js-montreal.org/",
+          "title": "js-montreal.org"
+        }
+      ]
+    }
+  ]
+}

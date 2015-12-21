@@ -1,0 +1,27 @@
+{
+  "num": 44,
+  "title": "Fall",
+  "on": "20141014",
+  "singleSession": false,
+  "blurb": "Fall is here, it's time for sweaters, wooly socks, and warm cup of Javascript.",
+  "specialevent": false,
+  "speakers": [
+    {
+      "title": "The Greensock Animations Platform",
+      "email": "m.vezina@la-grange.ca",
+      "name": "Martin Vézina",
+      "url": "https://github.com/mgvez",
+      "synopsis": "Greensock Animation Platform is an amazing library used to design high performance animations for the web. Its flexibility makes it possible to construct complex animation sequences and integrate them into your workflow with mimimum effort, and its simplicity bridges the gap between the motion designer and the programmer.",
+      "links": [
+        {
+          "title": "Greensock Animations",
+          "url": "https://greensock.com/"
+        },
+        {
+          "title": "LaGrange Technical Blog",
+          "url": "http://lab.la-grange.ca/"
+        }
+      ]
+    }
+  ]
+}

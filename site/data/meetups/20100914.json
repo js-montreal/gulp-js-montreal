@@ -1,0 +1,42 @@
+{
+  "num": 6,
+  "title": "Statechart to ECMAScript, Real-time apps with CouchDB",
+  "on": "20100914",
+  "blurb": "After a short hiatus we return with two great presentations. Jacob is back from <a href=\"http://svgopen.org/2010/\">SVG Open 2010</a> in Paris to tell us more about his SCXML -> JavaScript compiler. Alexis will be doing his second presentation for JS-MTL on the subject of CouchDB and real-time web applications.  <a href=\"http://js-montreal.org/map\">See you there!</a>",
+  "speakers": [
+    {
+      "title": "Developing a statechart to ECMAScript compiler",
+      "email": "jbeard4@cs.mcgill.ca",
+      "name": "Jacob Beard",
+      "url": "http://blog.echo-flow.com/",
+      "synopsis": "Developing rich, Web-based user interfaces can be challenging due to the complex behavioural relationships between UI components, which are often difficult to express, and are even more difficult to encode and maintain. An elegant solution may be found in Model-Driven Engineering. In particular, Statecharts, a formalism for describing complex, reactive, timed, state-based behaviour, is highly suited to model UI behaviour. This presentation will discuss the SCXML JavaScript Code Generation Framework (scxml-js), a Statechart-to-JavaScript compiler, and how it may be used to accelerate the development of fast, robust, and richly interactive Web-based UIs",
+      "links": [
+        {
+          "url": "http://commons.apache.org/sandbox/gsoc/2010/scxml-js/",
+          "title": "SCXML-JS"
+        },
+        {
+          "url": "http://en.wikipedia.org/wiki/State_diagram",
+          "title": "State Diagrams @ Wikipedia"
+        }
+      ]
+    },
+    {
+      "title": "Building real-time web applications with CouchDB",
+      "email": "alexis@cloudhead.net",
+      "name": "Alexis Sellier",
+      "url": "http://cloudhead.io/",
+      "synopsis": "Alexis is going to introduce <a href=\"http://couchdb.org\">CouchDB</a> and explain how he's been using it to create real-time web applications.",
+      "links": [
+        {
+          "url": "http://couchdb.org",
+          "title": "CouchDB"
+        },
+        {
+          "url": "http://thingler.com",
+          "title": "Thingler"
+        }
+      ]
+    }
+  ]
+}

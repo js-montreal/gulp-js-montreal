@@ -1,0 +1,44 @@
+{
+  "num": 47,
+  "title": "<a href=\"http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html\">Language of the year</a>",
+  "on": "20150113",
+  "singleSession": false,
+  "blurb": "This month: A bit of Angular and a walk through ES6 modules. Our friends at etelesolv are back with beer and pizza, so come early! Doors open at 18:00.",
+  "specialevent": "etelesolv-beer.html",
+  "speakers": [
+    {
+      "title": "Flexible declarative drag & drop for Angular",
+      "email": "ggoodman@gmail.com",
+      "name": "Geoff Goodman",
+      "url": "https://twitter.com/filearts",
+      "synopsis": "Geoff Goodman is the author and maintainer of Plunker. Facing particular UI challenges, he set out to create a directive that makes declarative drag & drop in Angular flexible and easy. He will tell us more about how it is built and the tools he used to create it.",
+      "links": [
+        {
+          "title": "angular-drag-drop",
+          "url": "https://github.com/ggoodman/angular-drag-drop"
+        },
+        {
+          "title": "Plunker",
+          "url": "http://plnkr.co"
+        }
+      ]
+    },
+    {
+      "title": "Pull the trigger on ES6 Modules",
+      "email": "neonskimmer@gmail.com",
+      "name": "Bruno Carriere",
+      "url": "https://twitter.com/jsmontreal",
+      "synopsis": "After years of turmoil and experimentation, JavaScript is set to have a proper module system in ES6. Bruno will show us how easy it is to take advantage of them today and present typical usage patterns.",
+      "links": [
+        {
+          "title": "jsmodules.io",
+          "url": "http://jsmodules.io"
+        },
+        {
+          "title": "ES6 Modules: The Final Syntax",
+          "url": "http://www.2ality.com/2014/09/es6-modules-final.html"
+        }
+      ]
+    }
+  ]
+}

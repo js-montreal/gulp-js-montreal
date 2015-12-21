@@ -1,0 +1,41 @@
+{
+  "num": 1,
+  "title": "Inaugural meetup!",
+  "on": "20100121",
+  "speakers": [
+    {
+      "title": "A brief history of JavaScript",
+      "name": "Bruno Carriere",
+      "url": "http://js-montreal.org",
+      "email": "neonskimmer@gmail.com",
+      "synopsis": "The JavaScript language has had a very interesting history. Despite being a young language, it has become the most popular one on the planet and its story is one full of mystery, intrigue and murder! Ok maybe not.",
+      "links": [
+        {
+          "url": "files/js-montreal-history-of-javascript.pdf",
+          "title": "Slides [PDF]"
+        },
+        {
+          "url": "http://en.wikipedia.org/wiki/JavaScript",
+          "title": "JavaScript [Wikipedia]"
+        },
+        {
+          "url": "http://en.wikipedia.org/wiki/Browser_wars",
+          "title": "The Browser wars [Wikipedia]"
+        }
+      ]
+    },
+    {
+      "title": "Building a DSL for RESTful applications in JavaScript",
+      "name": "Laurent Villeneuve",
+      "url": "http://github.com/mazesoul",
+      "email": "mazesoul@gmail.com",
+      "synopsis": "Laurent presents a useful abstraction created to define a RESTful application's URL routes. The idea continues now on github with his <a href=\"http://github.com/mazesoul/restate\">restate</a> project.",
+      "links": [
+        {
+          "url": "http://github.com/mazesoul/restate",
+          "title": "restate: A simple JavaScript resource mapper"
+        }
+      ]
+    }
+  ]
+}

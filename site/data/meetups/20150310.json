@@ -1,0 +1,23 @@
+{
+  "num": 49,
+  "title": "Javascript Spring Break",
+  "on": "20150310",
+  "singleSession": false,
+  "blurb": "Join us this month for a nice dose of functional JS.",
+  "specialevent": false,
+  "speakers": [
+    {
+      "title": "Manipulating data structures with JavaScript data type's methods",
+      "email": "sebastienfilion@me.com",
+      "name": "Sebastien Filion",
+      "url": "https://twitter.com/sebastienfilion",
+      "synopsis": "Using JavaScripts data type's methods is a flexible way of manipulating data structures; Discover functional programing and how to make the most out these expressive techniques. After this talk you will be able to solve everyday problems elegantly.",
+      "links": [
+        {
+          "title": "Functional Programming",
+          "url": "http://eloquentjavascript.net/1st_edition/chapter6.html"
+        }
+      ]
+    }
+  ]
+}

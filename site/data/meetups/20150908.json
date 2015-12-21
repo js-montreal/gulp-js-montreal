@@ -1,0 +1,36 @@
+{
+  "num": 55,
+  "title": "Goodbyes / Hellos",
+  "on": "20150908",
+  "singleSession": false,
+  "blurb": "This will be our last meetup at the Radialpoint location. They have been amazing hosts. <strong>Thank you!</strong><br><br>This month: Package all the things with Webpack. Typed languages are more your type? Try TypeScript.",
+  "specialevent": "appdirect-beer.html",
+  "speakers": [
+    {
+      "title": "Webpack is your friend",
+      "email": "charles@snipcart.com",
+      "name": "Charles Ouellet",
+      "url": "https://twitter.com/couellet",
+      "synopsis": "<a href='http://webpack.github.io/'>Webpack</a> is a module bundler that allows you to use multiple module definition systems, making refactoring of large scale single page applications much smoother. Charles will explain how to get started with Webpack, the main concepts behind the tool, and show us quick demos.",
+      "links": [
+        {
+          "title": "Webpack",
+          "url": "http://webpack.github.io/"
+        }
+      ]
+    },
+    {
+      "title": "TypeScript",
+      "email": "marekz@gmail.com",
+      "name": "Marek Zaluski",
+      "url": "http://www.marekzaluski.com/",
+      "synopsis": "TypeScript is an open source, typed superset of JavaScript. It is backed by Microsoft and usable everywhere JavaScript runs. Marek has been using it for a while and is going to tell us what he loves about it and how to get started.",
+      "links": [
+        {
+          "title": "TypeScript",
+          "url": "http://www.typescriptlang.org/"
+        }
+      ]
+    }
+  ]
+}

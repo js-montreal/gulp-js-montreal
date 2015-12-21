@@ -1,0 +1,1553 @@
+[{
+   "num": 1,
+   "title": "Inaugural meetup!",
+   "on": "20100121",
+   "speakers": [{
+      "title": "A brief history of JavaScript",
+      "name": "Bruno Carriere",
+      "url": "http://js-montreal.org",
+      "email": "neonskimmer@gmail.com",
+      "synopsis": "The JavaScript language has had a very interesting history. Despite being a young language, it has become the most popular one on the planet and its story is one full of mystery, intrigue and murder! Ok maybe not.",
+      "links": [{
+         "url": "files/js-montreal-history-of-javascript.pdf",
+         "title": "Slides [PDF]"
+      }, {
+         "url": "http://en.wikipedia.org/wiki/JavaScript",
+         "title": "JavaScript [Wikipedia]"
+      }, {
+         "url": "http://en.wikipedia.org/wiki/Browser_wars",
+         "title": "The Browser wars [Wikipedia]"
+      }]
+   }, {
+      "title": "Building a DSL for RESTful applications in JavaScript",
+      "name": "Laurent Villeneuve",
+      "url": "http://github.com/mazesoul",
+      "email": "mazesoul@gmail.com",
+      "synopsis": "Laurent presents a useful abstraction created to define a RESTful application's URL routes. The idea continues now on github with his <a href=\"http://github.com/mazesoul/restate\">restate</a> project.",
+      "links": [{
+         "url": "http://github.com/mazesoul/restate",
+         "title": "restate: A simple JavaScript resource mapper"
+      }]
+   }]
+}, {
+   "num": 2,
+   "title": "Plugins In Your Web App: The How-To",
+   "on": "20100210",
+   "speakers": [{
+      "title": "Plugins In Your Web App: The How-To",
+      "name": "Gary Haran",
+      "url": "http://talkerapp.com",
+      "email": "gary.haran@gmail.com",
+      "synopsis": "A plugin based architecture is a great way to build extensible web applications. Gary takes us through the basics and tells us more about his group chat application, Talker.",
+      "links": [{
+         "url": "http://github.com/garyharan/JS-Montreal_Presentation",
+         "title": "Presentation slides & Code"
+      }, {
+         "url": "http://talkerapp.com",
+         "title": "Talker: Fast, intuitive and extensible group chat"
+      }]
+   }]
+}, {
+   "num": 3,
+   "title": "Node JS: An introduction",
+   "on": "20100413",
+   "speakers": [{
+      "title": "Node JS: An introduction",
+      "email": "alexis@cloudhead.net",
+      "name": "Alexis Sellier",
+      "url": "http://cloudhead.io/",
+      "synopsis": "Node JS is an evented IO framework built on top of V8 Javascript. It's particularly useful for building http-based servers and JavaScript is a great match for event-based programming. Alexis has been playing with it for a while and will get us up to speed.",
+      "links": [{
+         "url": "http://nodejs.org",
+         "title": "Node JS"
+      }, {
+         "url": "http://github.com/cloudhead/node-intro",
+         "title": "Presentation slides and code (Github)"
+      }, {
+         "url": "files/node-intro.pdf",
+         "title": "PDF"
+      }]
+   }, {
+      "title": "Since we last met...",
+      "name": "Bruno Carriere",
+      "url": "http://js-montreal.org",
+      "email": "neonskimmer@gmail.com",
+      "synopsis": "An overview of what happened since our last meeting, in February.",
+      "links": [{
+         "url": "files/js-montreal-3.pdf",
+         "title": "Slides [PDF]"
+      }, {
+         "url": "http://www.youtube.com/user/amicalmant",
+         "title": "Confoo 2010 on Youtube"
+      }, {
+         "url": "http://yuiblog.com/crockford",
+         "title": "Crockford on JavaScript"
+      }, {
+         "url": "http://crockfordfacts.com",
+         "title": "Crockford facts"
+      }, {
+         "url": "http://prototypejs.org",
+         "title": "Prototype"
+      }]
+   }]
+}, {
+   "num": 4,
+   "title": "Function the Ultimate",
+   "on": "20100511",
+   "speakers": [{
+      "title": "Partial application in JavaScript",
+      "email": "brapse@gmail.com",
+      "name": "Sean Braithwaite",
+      "url": "http://twitter.com/brapse",
+      "synopsis": "Partial function application is a staple of functional programming. It is easily implemented in JavaScript as Sean will show us.",
+      "links": [{
+         "url": "files/partial-applications.pdf",
+         "title": "Slides [PDF]"
+      }]
+   }, {
+      "title": "Continuation-passing style in JavaScript",
+      "email": "vsedach@gmail.com",
+      "name": "Vladimir Sedach",
+      "url": "http://carcaddar.blogspot.com/",
+      "synopsis": "Vladimir will demonstrate how to use this technique to compile search queries.",
+      "links": [
+
+      ]
+   }]
+}, {
+   "num": 5,
+   "title": "Spring is the new summer",
+   "on": "20100713",
+   "speakers": [{
+      "title": "Why Software Sucks, JavaScript and you",
+      "email": "james@joyent.com",
+      "name": "James Duncan",
+      "url": "http://joyent.com",
+      "synopsis": "Why does software suck? James Duncan is going to tackle this age-old question and tell us why <i>JavaScript is the last language you'll ever need to know</i>. He is currently developing a PaaS using end to end JavaScript called SmartPlatform.",
+      "links": [{
+         "url": "http://www.joyent.com/technology/smartplatform/",
+         "title": "Joyent SmartPlatform"
+      }]
+   }, {
+      "title": "A Quilt Of Higher-Order Functions",
+      "email": "mazesoul@gmail.com",
+      "name": "Laurent Villeneuve",
+      "url": "http://github.com/mazesoul",
+      "synopsis": "A machine-gun delivered overview of functional <a title=\"AIIIIYA\" href=\"http://en.wikipedia.org/wiki/Jutsu\">jutsu</a>.",
+      "links": [
+
+      ]
+   }]
+}, {
+   "num": 6,
+   "title": "Statechart to ECMAScript, Real-time apps with CouchDB",
+   "on": "20100914",
+   "blurb": "After a short hiatus we return with two great presentations. Jacob is back from <a href=\"http://svgopen.org/2010/\">SVG Open 2010</a> in Paris to tell us more about his SCXML -> JavaScript compiler. Alexis will be doing his second presentation for JS-MTL on the subject of CouchDB and real-time web applications.  <a href=\"http://js-montreal.org/map\">See you there!</a>",
+   "speakers": [{
+      "title": "Developing a statechart to ECMAScript compiler",
+      "email": "jbeard4@cs.mcgill.ca",
+      "name": "Jacob Beard",
+      "url": "http://blog.echo-flow.com/",
+      "synopsis": "Developing rich, Web-based user interfaces can be challenging due to the complex behavioural relationships between UI components, which are often difficult to express, and are even more difficult to encode and maintain. An elegant solution may be found in Model-Driven Engineering. In particular, Statecharts, a formalism for describing complex, reactive, timed, state-based behaviour, is highly suited to model UI behaviour. This presentation will discuss the SCXML JavaScript Code Generation Framework (scxml-js), a Statechart-to-JavaScript compiler, and how it may be used to accelerate the development of fast, robust, and richly interactive Web-based UIs",
+      "links": [{
+         "url": "http://commons.apache.org/sandbox/gsoc/2010/scxml-js/",
+         "title": "SCXML-JS"
+      }, {
+         "url": "http://en.wikipedia.org/wiki/State_diagram",
+         "title": "State Diagrams @ Wikipedia"
+      }]
+   }, {
+      "title": "Building real-time web applications with CouchDB",
+      "email": "alexis@cloudhead.net",
+      "name": "Alexis Sellier",
+      "url": "http://cloudhead.io/",
+      "synopsis": "Alexis is going to introduce <a href=\"http://couchdb.org\">CouchDB</a> and explain how he's been using it to create real-time web applications.",
+      "links": [{
+         "url": "http://couchdb.org",
+         "title": "CouchDB"
+      }, {
+         "url": "http://thingler.com",
+         "title": "Thingler"
+      }]
+   }]
+}, {
+   "num": 7,
+   "title": "Homegrown JavaScript",
+   "on": "20101109",
+   "blurb": "We all know the benefits of eating and buying local products. As I sat in <i>cosmic reflexion</i>, it occured to me: Why not apply this ecologically sound point of view to the code we use?  This month we're looking at things you can use in your everyday coding, developped locally. <b>There are more spots, contact us!</b>",
+   "speakers": [{
+      "title": "Better form validation with jQuery.validationEngine",
+      "email": "cedric.dugas@gmail.com",
+      "name": "Cedric Dugas",
+      "url": "http://www.position-absolute.com/",
+      "synopsis": "Form validation is an annoying, repetitive task that we all hate to do. Cedric's jQuery plugin makes form validation much less painful.",
+      "links": [{
+         "url": "http://github.com/posabsolute/jQuery-Validation-Engine",
+         "title": "jQuery Validation Engine"
+      }]
+   }, {
+      "title": "Webshell - A console based Javascripty web client utility",
+      "email": "sean@seancoates.com",
+      "name": "Sean Coates",
+      "url": "http://seancoates.com/blogs/",
+      "synopsis": "Sean Coates is a name that is familiar with the PHP community but tonight he's gonna show Webshell, a web client utility written using NodeJS.",
+      "links": [{
+         "url": "http://github.com/fictivekin/webshell",
+         "title": "Webshell"
+      }]
+   }]
+}, {
+   "num": 8,
+   "title": "Backbone.js, Part 1",
+   "on": "20110111",
+   "speakers": [{
+      "title": "Building a client-side MVC app with Backbone.js, Underscore and jQuery",
+      "email": "neonskimmer@gmail.com",
+      "name": "Bruno Carriere",
+      "url": "http://js-montreal.org/",
+      "synopsis": "Backbone.js is a fresh new library providing models, collections, views and controllers to client-side JavaScript applications.  Bruno is going to take us through the creation of a simple but fully functional web app using Backbone.",
+      "links": [{
+         "url": "http://documentcloud.github.com/backbone/",
+         "title": "Backbone.js"
+      }, {
+         "url": "http://documentcloud.github.com/underscore/",
+         "title": "Underscore"
+      }]
+   }]
+}, {
+   "num": 9,
+   "title": "The function object + Duck Hunt",
+   "on": "20110208",
+   "speakers": [{
+      "title": "Don't skip chapter 7: A look at the Function object.",
+      "email": "mazesoul@gmail.com",
+      "name": "Laurent Villeneuve",
+      "url": "http://js-montreal.org/",
+      "synopsis": "The first time Laurent read \"Javascript, the Definitive Guide\" he skipped over chapter 7 entitled <b>Functions</b>. Bad idea. 8 years later, he won't let your make the same mistake.",
+      "links": [{
+         "url": "http://oreilly.com/catalog/9780596101992",
+         "title": "Javascript: The Definitive Guide"
+      }]
+   }, {
+      "title": "Canards & Canvas",
+      "email": "vrenaudin@gmail.com",
+      "name": "Vincent Renaudin",
+      "url": "http://js-montreal.org/",
+      "synopsis": "Vincent brave les avocats de Nintendo pour nous expliquer comment il a reproduit le classique de notre enfance \"Duck Hunt\" sur Canvas avec plusieures librairies utiles.",
+      "links": [{
+         "url": "http://duckhunt.grosbouddha.com/",
+         "title": "Duck Hunt"
+      }]
+   }]
+}, {
+   "num": 10,
+   "title": "Depeche Node",
+   "on": "20110412",
+   "blurb": "Back from our March break with some excellent presentations. First off with <a href=\"http://christianjoudrey.com/\">Christian Joudrey</a> of <a href=\"http://cakemail.com\">Cakemail</a> who will show us how easy it is to get started with a typical web app project using Node JS, Connect & Express. Secondly a presentation by Scott Burch on Jasmine BDD, a testing framework for Javascript.",
+   "speakers": [{
+      "title": "Jump into Node: Building your first Node app with Connect & Express",
+      "email": "cmallette@gmail.com",
+      "name": "Christian Joudrey",
+      "url": "http://christianjoudrey.com/",
+      "synopsis": "Christian will show us how easy it is to get started with Node JS, creating a basic web application with Connect & Express.",
+      "links": [{
+         "url": "http://www.slideshare.net/cjoudrey/building-your-first-node-app-with-connect-express",
+         "title": "Slides from the presentation"
+      }, {
+         "url": "http://nodejs.org",
+         "title": "Node JS"
+      }, {
+         "url": "http://expressjs.com",
+         "title": "express"
+      }, {
+         "url": "https://github.com/senchalabs/Connect",
+         "title": "connect"
+      }]
+   }, {
+      "title": "BDD with Jasmine",
+      "email": "scott@bulldoginfo.com",
+      "name": "Scott Burch",
+      "url": "http://scottburch.net/",
+      "synopsis": "Jasmine is an open-source BDD testing framework for Javascript.  After Scott's talk, you will not have any excuse not to unit test your JS. :D",
+      "links": [{
+         "url": "http://pivotal.github.com/jasmine/",
+         "title": "Jasmine"
+      }]
+   }]
+}, {
+   "num": 11,
+   "title": "You look good in that script",
+   "on": "20110510",
+   "blurb": "",
+   "speakers": [{
+      "title": "On CoffeeScript",
+      "email": "derek@derekbrans.com",
+      "name": "Derek Brans",
+      "url": "http://derekbrans.com/",
+      "synopsis": "CoffeeScript is a little language that compiles into JavaScript. Underneath all of those embarrassing braces and semicolons, JavaScript has always had a gorgeous object model at its heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.  Derek's also going to talk about the IDE he's working on - built for CoffeeScript, in CoffeeScript on top of nodejs.",
+      "links": [{
+         "url": "http://coffeescript.org",
+         "title": "Coffeescript"
+      }]
+   }, {
+      "title": "Two Prototypal Eureka Moments",
+      "email": "mazesoul@gmail.com",
+      "name": "Laurent Villeneuve",
+      "url": "http://laurentvilleneuve.com/",
+      "synopsis": "Flash presentation about Laurent's new script, Super.js - a micro sized JS class implementation.",
+      "links": [{
+         "url": "https://gist.github.com/957713",
+         "title": "Super.js : micro JS Class"
+      }]
+   }]
+}, {
+   "num": 12,
+   "title": "WebOS Intro, LiveTool: Peer to Peer in the browser",
+   "on": "20110712",
+   "blurb": "",
+   "speakers": [{
+      "title": "LiveTool - Dessin dans le browser multi-utilisateur",
+      "email": "arteau.olivier@gmail.com",
+      "name": "Olivier Arteau",
+      "url": "https://github.com/HoLyVieR/",
+      "synopsis": "Olivier va nous présenter son application LiveTool qui permet à plusieurs personnes de travailler en même temps dans un éditeur graphique. Il nous présentera l'application, ainsi que les technologies utilisées dans ce projet.",
+      "links": [{
+         "url": "https://github.com/HoLyVieR/LiveTool",
+         "title": "LiveTool on GitHub"
+      }]
+   }, {
+      "title": "Developing for WebOS in Javascript - An Introduction",
+      "email": "rahulgarg44@gmail.com",
+      "name": "Rahul Garg",
+      "url": "http://twitter.com/#!/codedivine",
+      "synopsis": "Are you curious about WebOS? This tablet OS is designed from the ground up for JavaScript programmers. Rahul will present the OS and show how it works and give us an overview of the APIs and tools available.",
+      "links": [{
+         "url": "https://developer.palm.com/",
+         "title": "WebOS Developer Center"
+      }]
+   }]
+}, {
+   "num": 13,
+   "title": "Get organized",
+   "on": "20110809",
+   "blurb": "We all know how to write code. But what happens when the line count grows and new teammates join your project? You need structure. This month we have two presentations tackling this very subject. Cedric will present strategies for jQuery based projects of small to medium size. As for Martin, he will show us how they moved their web application codebase to a front-end centric architecture using Backbone.js.",
+   "speakers": [{
+      "title": "jQuery Spaghetti, Version Sans Gras",
+      "email": "cedric_dugas@hotmail.com",
+      "name": "Cedric Dugas",
+      "url": "http://www.position-absolute.com/",
+      "synopsis": "Cedric nous démontre de simples trucs pour améliorer votre code tout en gardant la simplicité de jQuery intacte. Un entre deux pour ceux qui ne sont pas prêts à se lancer dans Backbone.js et autres frameworks plus complexes.",
+      "links": [{
+         "url": "http://jquery.com",
+         "title": "jQuery"
+      }]
+   }, {
+      "title": "Moving Planbox to Backbone.js: What we learned",
+      "email": "martin@planbox.com",
+      "name": "Martin Drapeau",
+      "url": "http://www.planbox.com/",
+      "synopsis": "<a href=\"http://planbox.com\">Planbox</a> is web-based Agile Project management tool. Project management can quickly become quite complex and Martin and his team have discovered that <a href=\"http://documentcloud.github.com/backbone\">Backbone.js</a> has really helped them keeping things simple. Come see how they moved the MVC stack to the forefront with Backbone. Learn about the benefits and downsides. Actually there are no downsides!",
+      "links": [{
+         "url": "http://documentcloud.github.com/backbone/",
+         "title": "Backbone.js"
+      }, {
+         "url": "http://planbox.com",
+         "title": "Planbox"
+      }]
+   }]
+}, {
+   "num": 14,
+   "title": "Userscripts, and state of JS-MONTREAL",
+   "on": "20110913",
+   "blurb": "",
+   "speakers": [{
+      "title": "Userscripts: smoothing the creases of the web",
+      "email": "mathiasbaert@gmail.com",
+      "name": "Mathias Baert",
+      "url": "https://twitter.com/mathiasbaert",
+      "synopsis": "What to do when a website you frequent has these irksome little annoyances that drive you crazy? What to do when your browsing experience is repeatedly interupted by something that could be so much better if only they would fix it? Do you send the website owner an email asking to adapt his site to your tastes? No, you whip out greasemonkey and fix it with a userscript of course! Userscripts are old news. Still, I bet you're not using them quite enough. (Presentation in English)",
+      "links": [{
+         "url": "http://userscripts.org/",
+         "title": "Userscripts.org"
+      }, {
+         "url": "https://github.com/greasemonkey/greasemonkey",
+         "title": "Greasemonkey (on Github)"
+      }]
+   }, {
+      "title": "State of the JS-MONTREAL address",
+      "email": "neonskimmer@gmail.com",
+      "name": "Bruno Carriere & Everyone else",
+      "url": "https://twitter.com/jsmontreal",
+      "synopsis": "We're quickly closing in on <em>two years</em> of JS-MONTREAL. Let's talk about what we want to see more of, less of and new things we want to accomplish over the next few months. Also we need halp! Are you interested in volunteering your time to make JS-MONTREAL better? It's a good time to get involved.",
+      "links": [{
+         "url": "http://js-montreal.org/",
+         "title": "js-montreal.org"
+      }]
+   }
+
+   ]
+}, {
+   "num": 15,
+   "title": "JavaScript in your pocket",
+   "on": "20111011",
+   "blurb": "Mobile web applications are no longer the future, they're the present. There are a lot of tools out there to give you a headstart creating JavaScript mobile applications. This month we see two promising mobile frameworks.",
+   "speakers": [{
+      "title": "State of jQuery Mobile",
+      "email": "cedric.dugas@cakemail.com",
+      "name": "Cedric Dugas",
+      "url": "http://www.position-absolute.com/",
+      "synopsis": "The jQuery mobile team has just released 1.0 RC1 nearly one year after its announcement and with it we are getting very close to a 1.0 release. Let's examine this framework and find out what makes it great as well as its weaknesses.",
+      "links": [{
+         "url": "http://jquerymobile.com/",
+         "title": "jQuery Mobile"
+      }]
+   }, {
+      "title": "Getting started with Sencha Touch",
+      "email": "neonskimmer@gmail.com",
+      "name": "Bruno Carriere",
+      "url": "http://js-montreal.org/",
+      "synopsis": "Sencha Touch is a mobile framework with a heavy emphasis on a hierarchy of widgets; much like its <a href='http://www.sencha.com/products/extjs/'>big brother</a> it is designed to be driven with a lot of JavaScript, and very little HTML.",
+      "links": [{
+         "url": "http://www.sencha.com/products/touch/",
+         "title": "Sencha Touch"
+      }, {
+         "url": "https://github.com/bruno-c/js-montreal.org/blob/master/public/src/jsmtl-sencha.js",
+         "title": "js-montreal.org/mobile/ (code)"
+      }]
+   }]
+}, {
+   "num": 16,
+   "title": "More client-side MVCs",
+   "on": "20111108",
+   "blurb": "We had a lot of discussion and feedback following previous discussions on client-side MVC frameworks such as Backbone JS. More on this subject this month.",
+   "speakers": [{
+      "title": "Frameworks MVC JavaScript",
+      "email": "asobrasil@gmail.com",
+      "name": "André de Santi Oliveira",
+      "url": "https://github.com/ASOBrasil",
+      "synopsis": "Présentation des frameworks MVC JavaScript (SproutCore et JavascriptMVC) et l'écosystème autour d'eux (JavaScript frameworks, templates frameworks, dynamic stylesheet languages, mobile frameworks, etc).",
+      "links": [{
+         "url": "http://javascriptmvc.com/",
+         "title": "JavaScriptMVC"
+      }, {
+         "url": "http://www.sproutcore.com/",
+         "title": "SproutCore"
+      }]
+   }, {
+      "title": "A fresh new website (with nothing on it)",
+      "email": "neonskimmer@gmail.com",
+      "name": "Bruno Carriere",
+      "url": "http://js-montreal.org/",
+      "synopsis": "The JSMTL web site was getting a bit old so I decided to go ahead and begin a redesign. It uses Twitter's new baseline library, Bootstrap. All the code is available on Github and I want to invite everyone to play with it, because I suck at design.",
+      "links": [{
+         "url": "https://github.com/bruno-c/js-montreal.org",
+         "title": "js-montreal.org repo on GitHub"
+      }, {
+         "url": "http://twitter.github.com/bootstrap/",
+         "title": "Twitter Bootstrap"
+      }]
+   }]
+}, {
+   "num": 17,
+   "title": "Fulfilling your 2012 coding resolutions",
+   "on": "20120110",
+   "blurb": "",
+   "speakers": [{
+      "title": "Setting up your New Years Resolution:  JsTestDriver Part 1",
+      "email": "gina.c.cook@gmail.com",
+      "name": "Gina Cook",
+      "url": "http://ilanguage.ca/",
+      "synopsis": "Getting JsTestDriver set up requires reading almost every issue in the issue tracker but it's worth it. Gina will present her findings to us and help us fullfil our testing resolutions. JsTestDriver is a test runner for Javascript unit tests that supports 3rd party frameworks.",
+      "links": [{
+         "url": "http://code.google.com/p/js-test-driver/",
+         "title": "JsTestDriver"
+      }]
+   }, {
+      "title": "Readability through code formatting, idioms and compression tolerance",
+      "email": "mazesoul@gmail.com",
+      "name": "Laurent Villeneuve",
+      "url": "http://e-signlive.com/",
+      "synopsis": "After fiddling with code formatting for many years, Laurent will share some aspects of his idiosyncratic JS style. From comma-in-front formatting, to compression tolerance, to the elimination of flow control statement, we'll see how code can be transmuted to data for better scanability and eventually, architecture.",
+      "links": [{
+         "url": "http://mazesoul.github.com/Readability_idioms_and_compression_tolerance",
+         "title": "The slides"
+      }]
+   }]
+}, {
+   "num": 18,
+   "title": "function forever(){ return 'alone' }",
+   "on": "20120214",
+   "blurb": "Yeah, we know it's on Valentine's day. Show your love for the world's most misunderstood programming language.",
+   "speakers": [{
+      "title": " /^[FfC](?:(?:re?a|\\*{1,2}|.*)c?)king$/ Regex",
+      "email": "mazesoul@gmail.com",
+      "name": "Laurent Villeneuve",
+      "url": "https://github.com/mazesoul",
+      "synopsis": "Do you, like most regular folks, suck at regular expressions?  What if you <a href=\"http://xkcd.com/208/\">suddenly had to save someone's life</a> using Regex? You could be a hero! Laurent's going to unlock the mysteries of Regex syntax and put us all on the path to regular expression enlightenment.",
+      "links": [{
+         "url": "http://xkcd.com/208/",
+         "title": "Everybody stand back."
+      }]
+   }, {
+      "title": "Building DocumentUp",
+      "email": "jeromegn@gmail.com",
+      "name": "Jerome Gravel-Niquet",
+      "url": "http://jgn.me/",
+      "synopsis": "Jerome's latest project, DocumentUp, uses many interesting js libraries and techniques to create documentation on the fly for your GitHub projects. He's going to tell us more about the technology behind DocumentUp: Ender, localStorage, Node and more.",
+      "links": [{
+         "url": "http://speakerdeck.com/u/jeromegn/p/documentup-jsmontreal",
+         "title": "Slides"
+      }, {
+         "url": "http://documentup.com/",
+         "title": "DocumentUp"
+      }, {
+         "url": "http://ender.no.de/",
+         "title": "Ender"
+      }]
+   }]
+}, {
+   "num": 19,
+   "title": "JS-MONTREAL #19",
+   "on": "20120313",
+   "blurb": "Two excellent talks this month. D3 is a fascinating data transformation library and Travis CI is the hottest thing to hit the Continuous Integration scene in years. Plus, it's much prettier than Jenkins.",
+   "speakers": [{
+      "title": "Transform data into magic with D3",
+      "email": "ckm2k1@gmail.com",
+      "name": "Steve Venzerul",
+      "url": "https://github.com/ckm2k1",
+      "synopsis": "D3 applies data-driven transformation to a document. It is particularly adept at creating awesome visualisations using SVG and CSS3-transforms.Steve will show us how to get started with D3 and a few fun things you can do with it.",
+      "links": [{
+         "url": "http://mbostock.github.com/d3/",
+         "title": "D3"
+      }, {
+         "url": "https://github.com/ckm2k1/d3_Presentation",
+         "title": "Presentation"
+      }]
+   }, {
+      "title": "Continuous integration for your  projects using Travis CI",
+      "email": "cmallette@gmail.com",
+      "name": "Christian Joudrey",
+      "url": "http://christianjoudrey.com/",
+      "synopsis": "Travis CI is getting a lot of traction, particularly on Github where it is beautifully integrated. Christian will explain how easy it is to get your open-source project working with Travis.",
+      "links": [{
+         "url": "http://travis-ci.org/",
+         "title": "Travis CI"
+      }]
+   }]
+}, {
+   "num": 20,
+   "title": "JS-MONTREAL #20",
+   "on": "20120508",
+   "blurb": "Following our month off, here's an interesting presentation about QML, another place where your JS skills can be put to work. Since we only have one presentation this month, think of some libraries or tools you've discovered recently that you want to share with the group. See you all there!",
+   "speakers": [{
+      "title": "QML - QT programs with JavaScript",
+      "email": "rahulgarg44@gmail.com",
+      "name": "Rahul Garg",
+      "url": "http://twitter.com/#!/codedivine",
+      "synopsis": "QML is a JavaScript-based, declarative language for designing user interface–centric applications. It is part of Qt Quick, the UI creation kit developed by Nokia within the Qt framework. QML is mainly used for mobile applications where touch input, fluid animations (60 FPS) and user experience are crucial. Rahul will show us how to get started with QML.",
+      "links": [{
+         "url": "http://qt.nokia.com/qtquick/",
+         "title": "Qt Quick"
+      }]
+   }, {
+      "title": "Show and tell",
+      "email": "neonskimmer@gmail.com",
+      "name": "Everyone",
+      "url": "http://js-montreal.org",
+      "synopsis": "Let's have an open show-and-tell about tools and libraries we've recently discovered or started using.",
+      "links": [{
+         "url": "http://js-montreal.org",
+         "title": "js-montreal.org"
+      }]
+   }]
+}, {
+   "num": 21,
+   "title": "Jump into Node - Part 2",
+   "on": "20120710",
+   "blurb": "This month it's all about Node. If you still haven't had the chance to build something with Node, this month's presentation will be a good introduction to everything you need to know to get started. Node is no longer on the fringe. With the support and endorsement of giants like Microsoft, Yahoo, eBay, Joyent, LinkedIn - Node's time to hit the mainstream is imminent. Come see what all the fuss is about and leave with enough knowledge to hit the ground running.",
+   "speakers": [{
+      "title": "Getting to know Node",
+      "email": "ckm2k1@gmail.com",
+      "name": "Steve Venzerul",
+      "url": "https://github.com/ckm2k1",
+      "synopsis": "Steve's going to show us how to get started building web apps using Node, Express and Jade. We'll also see explore some of the tools useful for Node development and a demonstration of Node's asynchronous nature through a small crawler program Steve has built. Exceptionally this month, there will be only one presentation because there is a lot of material to cover. And plenty of time for questions.",
+      "links": [{
+         "url": "http://nodejs.org",
+         "title": "NodeJS"
+      }, {
+         "url": "http://expressjs.com",
+         "title": "express"
+      }]
+   }]
+}, {
+   "num": 22,
+   "title": "JS-MONTREAL #22",
+   "on": "20120814",
+   "blurb": "After a great Node meetup, here's more cool stuff you can do with it. Also: JavaScript library favorites. I assure you there is an air conditioner where we meet.",
+   "speakers": [{
+      "title": "Building assets on the fly with Node",
+      "email": "martindrapeau@gmail.com",
+      "name": "Martin Drapeau",
+      "url": "https://github.com/martindrapeau",
+      "synopsis": "Martin is going to demonstrate the technique he has been using to serve assets and templates without a 'watcher', using Node and Snockets.",
+      "links": [{
+         "url": "http://www.slideshare.net/martindrapeau/building-assets-on-the-fly-with-node",
+         "title": "Slides"
+      }, {
+         "url": "http://nodejs.org",
+         "title": "NodeJS"
+      }, {
+         "url": "https://github.com/TrevorBurnham/snockets",
+         "title": "Snockets"
+      }]
+   }, {
+      "title": "JavaScript Tools and Frameworks Faves",
+      "email": "afilina@gmail.com",
+      "name": "Anna Filina",
+      "url": "http://annafilina.com",
+      "synopsis": "Anna will pick a few Javascript frameworks and libraries that she used on a recent project (jQuery, RaphaelJS, Plupload, etc.). And then show a quick overview of the possibilities of each and how they helped her build a mission-critical application.",
+      "links": [{
+         "url": "https://speakerdeck.com/u/afilina/p/javascript-tools-and-frameworks-faves-1",
+         "title": "Slides"
+      }, {
+         "url": "https://github.com/afilina/demo_jsfaves",
+         "title": "Code & Examples"
+      }]
+   }]
+}, {
+   "num": 23,
+   "title": "JS-MONTREAL #23",
+   "on": "20120911",
+   "blurb": "",
+   "speakers": [{
+      "title": "Next-generation JavaScript Frameworks",
+      "email": "cleung0@gmail.com",
+      "name": "Clarence Leung",
+      "url": "https://github.com/clarle",
+      "synopsis": "Now that we have both client-side and server-side JavaScript frameworks, the next step is to bring the two together. Clarence will explain the benefits of sharing code between client and server and demo three of the newest frameworks that take advantage of this: Mojito, Derby and Meteor.",
+      "links": [{
+         "url": "http://developer.yahoo.com/cocktails/mojito/",
+         "title": "Mojito"
+      }, {
+         "url": "http://derbyjs.com",
+         "title": "Derby"
+      }, {
+         "url": "http://meteor.com",
+         "title": "Meteor"
+      }]
+   }]
+}, {
+   "num": 24,
+   "title": "JS-MONTREAL #24",
+   "on": "20121009",
+   "blurb": "This month we explore another, lesser known context for JavaScript applications - in the browser but completely offline, in the field.",
+   "speakers": [{
+      "title": "Taking Javascript Into The Field: A case study",
+      "email": "gina.c.cook@gmail.com",
+      "name": "Gina Cook & Theresa Deering",
+      "url": "https://github.com/OpenSourceFieldlinguistics",
+      "synopsis": "FieldDB is a 100% Javascript stack for collaboratively collecting data. It was designed to run offline on multiple platforms (Chrome Extension and Android). In this talk we will discuss the hurdles along the way to building a data heavy offline app. We will focus two key libraries and how they fit into our stack: PouchDB alpha, a Javascript implementation of the NoSQL database CouchDB, for storing large amounts of data offline, and Require.js for simplifying development and deploying to different targets. The Javascript App, and its Node.js web services are <a  href=\"https://github.com/OpenSourceFieldlinguistics\">OpenSourced on GitHub</a>",
+      "links": [{
+         "url": "http://pouchdb.com/",
+         "title": "PouchDB"
+      }, {
+         "url": "http://requirejs.org/",
+         "title": "RequireJS"
+      }, {
+         "url": "https://github.com/OpenSourceFieldlinguistics",
+         "title": "Open Source Field Linguistics on GitHub"
+      }]
+   }]
+}, {
+   "num": 25,
+   "title": "Enyo 2 + Blanket.js",
+   "on": "20121113",
+   "blurb": "Building complex web applications these days presents us a with a myriad of options. Rich, component based frameworks are one option and Enyo 2 is one of them. But you also need good tests! Discover code coverage tool Blanket.js.",
+   "speakers": [{
+      "title": "Introducing the Enyo 2.0 framework",
+      "email": "olafura@olafura.com",
+      "name": "Olafur Arason",
+      "url": "https://github.com/olafura",
+      "synopsis": "Enyo 2 is a new component based JavaScript framework. It promotes a sane structure for the code and is easy to get into to make powerful applications. Olafur will also discuss his project DataControl which integrates PouchDB into Enyo to provide a seamless experience when working in offline conditions.",
+      "links": [{
+         "url": "http://enyojs.com/",
+         "title": "Enyo"
+      }, {
+         "url": "https://github.com/olafura/datacontrol",
+         "title": "DataControl on Github"
+      }]
+   }, {
+      "title": "Seamless code coverage with Blanket.js",
+      "email": "hi@alexanderseville.com",
+      "name": "Alex Seville",
+      "url": "https://github.com/alex-seville",
+      "synopsis": "Blanket.js is a new open source code coverage tool for JavaScript. Currently in alpha release, it completely changes how code coverage is managed in JavaScript testing. Alex will discuss current techniques for JavaScript code coverage and the method used by Blanket.js.",
+      "links": [{
+         "url": "http://migrii.github.com/blanket/",
+         "title": "Blanket.js"
+      }]
+   }]
+}, {
+   "num": 26,
+   "title": "Going native",
+   "on": "20121211",
+   "blurb": "Building native mobile applications (not embedded browser applications) for multiple platforms, in JavaScript? Totally possible.",
+   "speakers": [{
+      "title": "Introduction a Appcelerator Titanium",
+      "email": "lamoureux.florent@gmail.com",
+      "name": "Florent Lamoureux",
+      "url": "http://www.florentlamoureux.fr/",
+      "synopsis": "Titanium est un framework open source JavaScript, maintenu par Appcelerator, qui permet de développer des applications natives multi plateformes à partir d'un même code source. Florent va présenter son principe de fonctionnement, atouts et inconvénients, et nous montrera en direct la création d'une petite application multi plateforme.",
+      "links": [{
+         "url": "http://www.appcelerator.com/",
+         "title": "Appcelerator"
+      }]
+   }]
+}, {
+   "num": 27,
+   "title": "Back in action",
+   "on": "20130312",
+   "blurb": "And we're back. With a lot of plans for the new year. De retour, avec plein de plans pour la nouvelle année.",
+   "speakers": [{
+      "title": "Angular.js: Un survol",
+      "email": "nison.mael@gmail.com",
+      "name": "Maël Nison",
+      "url": "https://github.com/arcanis",
+      "synopsis": "Développé par Google, apportant un paradigme novateur, 'concurrent' direct d'Ember.js, AngularJS est un framework web faisant de parler de lui ces derniers temps. Maël nous présentera ses caractéristiques et points forts, avant d'évoquer quelques-uns des cas d'utilisations de l'outil.",
+      "links": [{
+         "url": "http://angularjs.org/",
+         "title": "AngularJS"
+      }]
+   },{
+      "title": "jQuery Promises en 15 minutes",
+      "email": "maximeb@gmail.com",
+      "name": "Maxime Bergeron",
+      "url": "https://github.com/maxmx",
+      "synopsis": "Malgré le fait qu'elles existent à travers les 'Deferred' dans jQuery depuis plusieurs versions (1.5+), les 'promises' sont encore méconnues et mal comprises par beaucoup de programmeurs. À travers plusieurs exemples, Maxime va démystifier tout ça.",
+      "links": [{
+         "url": "http://api.jquery.com/category/deferred-object/",
+         "title": "jQuery: Deferred Object"
+      }]
+   }]
+}, {
+   "num": 28,
+   "title": "JS-MONTREAL #28",
+   "on": "20130409",
+   "blurb": "This month, coding kata practice and a Minecraft like game. Ce mois-ci, un kata JavaScript et un jeu de type Minecraft.",
+   "speakers": [{
+      "title": "Un kata TDD en JavaScript: Prime Factors",
+      "email": "eric.mignot@gmail.com",
+      "name": "Eric Mignot",
+      "url": "http://ericminio.wordpress.com/",
+      "synopsis": "L'éco-système Javascript dispose aujourd'hui de tous les outils nécéssaires pour profiter du Développement piloté par les tests (TDD). Néanmoins sa maîtrise reste difficile. Les coding-dojos ont été conçus pour nous permettre d'apprendre à tirer le meilleur du TDD tout en jouant. Alors amenez vos laptops et venez coder, js-montreal se transforme en dojo!",
+      "links": [{
+         "url": "http://visionmedia.github.com/mocha/",
+         "title": "Mocha"
+      },{
+         "url": "http://pivotal.github.com/jasmine/",
+         "title": "Jasmine"
+      }, {
+         "url": "http://butunclebob.com/ArticleS.UncleBob.ThePrimeFactorsKata",
+         "title": "The Prime Factors kata"
+      }]
+   },{
+      "title": "Voxplode",
+      "email": "nison.mael@gmail.com",
+      "name": "Maël Nison",
+      "url": "https://github.com/arcanis/",
+      "synopsis": "Voxplode est un jeu qui se passe dans un monde genéré de façon procédurale, et rendu a l'aide d'un engin voxel. Mael va nous présenter son jeu et les outils qu'il a conçu pour y arriver.",
+      "links": [{
+         "url": "https://github.com/arcanis/voxplode",
+         "title": "Voxplode"
+      },{
+         "url": "http://arcanis.github.io/swat/",
+         "title": "SWAT Game Engine"
+      }]
+   }]
+}, {
+   "num": 29,
+   "title": "Spring",
+   "on": "20130514",
+   "blurb": "Spring is here and so are a bunch of new JavaScript tools. This month: Better testing with Karma and Front-end only web apps with Hoodie.",
+   "speakers": [{
+      "title": "Continuous Testing with Karma",
+      "email": "danielrobertsdesign@gmail.com",
+      "name": "Daniel Roberts",
+      "url": "http://ericminio.wordpress.com/",
+      "synopsis": "Karma is a testing framework agnostic, blazingly fast automated test runner written by the Google team behind Angular.js. Karma listens to your filesystem and runs your tests every time you save a file. Daniel will cover how with Karma, writing tests first, before code, can speed up your day-to-day development process, and turn test writing from a chore to an essential time saving practice you couldn't live without.",
+      "links": [{
+         "url": "http://karma-runner.github.io/0.8/index.html",
+         "title": "Karma"
+      }]
+   },{
+      "title": "Hoodie",
+      "email": "ben.nevile@gmail.com",
+      "name": "Ben Neville",
+      "url": "http://blog.mainsocial.com/",
+      "synopsis": "Hoodie is a new \"frontend-only\" framework designed to help you build applications quickly without worrying about server-side programming. Ben is going to tell us about what it can do, what type of apps it's a good fit for, and show us how to get started.",
+      "links": [{
+         "url": "http://hood.ie/",
+         "title": "Hoodie"
+      }]
+   }]
+}, {
+   "num": 30,
+   "title": "Spring",
+   "on": "20130611",
+   "blurb": "Continuing our Spring session with more goodies. This month: Cedric will show us how to get started on mobile development, and Rowan will introduce Grunt.js for managing your builds and tasks in your awesome JS projects.",
+   "speakers": [{
+      "title": "Getting Started With Vanilla Mobile Apps",
+      "email": "cedric.dugas@gmail.com",
+      "name": "Cedric Dugas",
+      "url": "http://www.position-absolute.com/",
+      "synopsis": "Thinking about doing a mobile web app? See what issues you really don't want to tackle and learn some tips & tricks to get started.",
+      "links": [{
+         "url": "http://www.slideshare.net/cdugas1/presenattion-mobile-22864963",
+         "title": "Slides"
+      }]
+   },{
+      "title": "Grunt.js",
+      "email": "rowanu@gmail.com",
+      "name": "Rowan Udell",
+      "url": "http://dashboarddude.com/",
+      "synopsis": "A practical introduction to using the task runner GruntJS in your projects. More than just a build tool, Grunt makes it easy to automate your common tasks. Leverage concepts you already know, and an abundant ecosystem of plugins to quickly and easily improve your day-to-day workflow.",
+      "links": [{
+         "url": "http://www.gruntjs.com",
+         "title": "Grunt.js"
+      }, {
+         "url": "http://rowanu.github.io/js-montreal-talk.gruntjs/",
+         "title": "Slides"
+      }]
+   }]
+}, {
+   "num": 31,
+   "title": "Summer",
+   "on": "20130709",
+   "blurb": "It's too hot to go play outside. Join us in Cakemail's comfortable, air-conditioned room for an evening of JavaScript.",
+   "speakers": [{
+      "title": "Pump.io - Next-Gen Social Network Engine",
+      "email": "ryan@kafei.ca",
+      "name": "Ryan Weal",
+      "url": "http://www.kafei.ca/",
+      "synopsis": "Pump.io is a decentralized social network engine written in JavaScript. It lets you manage activity streams, handling protocol communication and providing a web UI with real-time updates. Ryan will explain how to join an existing pump.io instance and follow people on other instances, how pump.io’s protocols work, and show us how to setup your own pump.io server.",
+      "links": [{
+         "url": "http://pump.io",
+         "title": "Pump.io - Social Network Engine"
+      }]
+   }, {
+      "title": "Continuous Testing with Karma",
+      "email": "danielrobertsdesign@gmail.com",
+      "name": "Daniel Roberts",
+      "url": "https://plus.google.com/102285204872951861022/posts",
+      "synopsis": "Karma is a testing framework agnostic, blazingly fast automated test runner written by the Google team behind Angular.js. Karma listens to your filesystem and runs your tests every time you save a file. Daniel will cover how with Karma, writing tests first, before code, can speed up your day-to-day development process, and turn test writing from a chore to an essential time saving practice you couldn't live without.",
+      "links": [{
+         "url": "http://karma-runner.github.io/0.8/index.html",
+         "title": "Karma"
+      }]
+   }]
+}, {
+   "num": 32,
+   "title": "Summer",
+   "on": "20130813",
+   "specialevent": "cakemail-beer.html",
+   "blurb": "Dependency and module management libraries are an important part of the JavaScript ecosystem and RequireJS and Browserify are the most popular solutions. Join us to learn what they can do for you.",
+   "speakers": [{
+      "title": "RequireJS - Chargeur de Module AMD",
+      "email": "motahawk@gmail.com",
+      "name": "Thomas Thiery",
+      "url": "http://requirejs.org",
+      "synopsis": "RequireJS est une librairie qui permet de charger des fichiers et modules JavaScript. Elle facilite grandement la structuration des projets JavaScript. Par des exemples simples et concrets, la présentation nous amènera à voir plusieurs mises en place possibles de la librairie &mdash; shim, AMD, node &mdash; pour un rapide tour d'horizon.",
+      "links": [{
+         "url": "http://requirejs.org",
+         "title": "RequireJS - AMD Module Loader"
+      }]
+   }, {
+      "title": "Browserify - CommonJS Module Loader",
+      "email": "ckm2k1@gmail.com",
+      "name": "Stanislav Venzerul",
+      "url": "http://browserify.org/",
+      "synopsis": "Browserify is a module management system and the main competitor to RequireJS. Unlike RequireJS, it's based on the CommonJS module loading system popularized by Node.js. This presentation will be an introduction to Browserify and how it differs from RequireJS and the AMD eco-system.",
+      "links": [{
+         "url": "http://browserify.org/",
+         "title": "Browserify - CommonJS Module Loader"
+      }]
+   }]
+}, {
+   "num": 33,
+   "title": "Autumn",
+   "on": "20130910",
+   "specialevent": "cakemail-beer.html",
+   "blurb": "Join us this month for 2 excellent talks about data-visualization and manipulation brought to you by Plotly and Nicolas' PivotTable.",
+   "speakers": [{
+      "title": "Plot.ly - D3 Magic",
+      "email": "jack@plot.ly",
+      "name": "Jack Parmer",
+      "url": "https://www.plot.ly",
+      "synopsis": "D3.js has steadily gained popularity among scientists, data journalists, and web developers and is now arguably the leading open-source tool for web visualization. This talk will discuss Plotly's integration of d3.js with UX controls that allow users greater control over vis styling and information presentation",
+      "links": [{
+         "url": "https://www.plot.ly",
+         "title": "Plotly: Easily analyze data"
+      }]
+   }, {
+      "title": "PivotTable.js - For all your tabling needs",
+      "email": "nicolas@kruchten.com",
+      "name": "Nicolas Kruchten",
+      "url": "https://github.com/nicolaskruchten/pivottable",
+      "synopsis": "Pivot Tables and Pivot Charts are very useful interactive data analysis/visualization tools. Nicolas Kruchten from Datacratic will present his recently-open-sourced PivotTable.js component which addresses this need, and he will discuss applications and design decisions.",
+      "links": [{
+         "url": "https://github.com/nicolaskruchten/pivottable",
+         "title": "PivotTable.js Repository"
+      }, {
+         "url": "http://nicolas.kruchten.com/content/",
+         "title": "Personal Blog"
+      }]
+   }]
+}, {
+   "num": 34,
+   "title": "Autumn",
+   "on": "20131008",
+   "blurb": "This month we have 2 visiting giants. Francois from Mozilla is going to show us Persona, Mozilla's open auth system, and from Microsoft, Rami will show us how to leverage Windows Azure for Node.js applications.",
+   "speakers": [{
+      "title": "Mozilla Persona",
+      "email": "francois@mozilla.com",
+      "name": "Francois Marier",
+      "url": "https://login.persona.org",
+      "synopsis": "Handling user passwords safely is hard, but replacing passwords on the web in a reasonable way is even harder. Really, this should have been in the browser all along. In this talk you we will see how Persona attempts to solve this issue.",
+      "links": [{
+         "url": "https://login.persona.org",
+         "title": "Login via Persona"
+      }, {
+         "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Persona/Quick_Setup",
+         "title": "Persona - Quick Setup Guide"
+      }, {
+         "url": "http://myfavoritebeer.org",
+         "title": "My Favorite Beer"
+      }]
+   }, {
+      "title": "Building and Publishing Node.js Applications with Windows Azure Web Sites on OS X",
+      "email": "rami.sayar@microsoft.com",
+      "name": "Rami Sayar",
+      "url": "http://wootstudio.ca",
+      "synopsis": "In this talk, you will learn the basics of the Windows Azure Web Sites service for Node.js applications. You will see how to use the Windows Azure portal for creating a web site and then publish a \"Hello World\" Node.js application using Git. You will also learn how to use the Node.js Command-Line Tools for publishing applications. You will have an additional reason to use your free monthly Azure Credits!",
+      "links": [{
+         "url": "http://wootstudio.ca",
+         "title": "WootStudio"
+      }, {
+         "url": "http://www.windowsazure.com",
+         "title": "Windows Azure Hosting Platform"
+      }]
+   }]
+}, {
+   "num": 35,
+   "title": "Autumn",
+   "on": "20131112",
+   "specialevent": "tribalnova-beer.html",
+   "blurb": "November brings us cold, rain and frameworks. Come for the Javascript, stay for the showdown!",
+   "speakers": [{
+      "title": "Framework Showdown",
+      "email": "jason.abz@gmail.com",
+      "name": "Jason McCarrell",
+      "url": "http://www.linkedin.com/in/jasonmccarrell",
+      "synopsis": "With so many Javascript frameworks and libraries it's hard to know which one works for which scenario. Luckily Jason has redundantly built the same project using three different libraries. This presentation will compare Angular, Backbone, and Meteor using a hands-on use case of a TCG visual deck builder.",
+      "links": []
+   }]
+}, {
+   "num": 36,
+   "title": "Winter",
+   "on": "20131210",
+   "blurb": "Come explore the micro and the macro with these 2 beautiful WebGL/Three.js projects showcasing the human brain and the solar system",
+   "speakers": [{
+      "title": "BrainBrowser",
+      "email": "tsherif@gmail.com",
+      "name": "Tarek Sherif",
+      "url": "http://www.tareksherif.ca/",
+      "synopsis": "BrainBrowser is a suite of web-based, real-time 2D and 3D visualization tools for neuroimaging data. BrainBrowser is a full JavaScript application, using WebGL (through three.js) for 3D rendering, the Canvas API for 2D rendering and Web Workers for computationally expensive data parsing tasks. It is being developed as part of the CBRAIN project at McGill University.",
+      "links": [{
+         "url": "https://brainbrowser.cbrain.mcgill.ca/",
+         "title": "BrainBrowser"
+         }, {
+         "url": "http://www.tareksherif.ca/",
+         "title": "Personal Website"
+         }, {
+         "url": "http://cbrain.mcgill.ca/",
+         "title": "CBRAIN"
+         }]
+   }, {
+      "title": "jsOrrery - WebGL Solar System",
+      "email": "m.vezina@la-grange.ca",
+      "name": "Martin Vézina",
+      "url": "http://www.linkedin.com/profile/view?id=41886384&authType=NAME_SEARCH&authToken=lN-6&locale=fr_FR&srchid=811941431386213808084&srchindex=1&srchtotal=20&trk=vsrp_people_res_name&trkInfo=VSRPsearchId%3A811941431386213808084%2CVSRPtargetId%3A41886384%2CVSRPcmpt%3Aprimary",
+      "synopsis": "Experiments are not only fun to do, they are also a fantastic way to learn. I will walk you through an experimental project of mine : a visualization of the Solar System in 3D built with Three.js. So we will be talking about Three.js and WebGL but also physics, vector geometry, astronomy, etc. All of that in Javascript. Geek topics for a geek crowd!",
+      "links": [{
+         "url": "http://lab.la-grange.ca/en/building-jsorrery-a-javascript-webgl-solar-system",
+         "title": "Solar System"
+      }, {
+         "url": "http://mgvez.github.io/jsorrery/",
+         "title": "Github Repo"
+      }, {
+         "url": "http://www.la-grange.ca",
+         "title": "Company Website"
+      }]
+   }]
+}, {
+   "num": 37,
+   "title": "Winter",
+   "on": "20140114",
+   "blurb": "Join us this month for some NodeJS goodness. Sebastien will show us a more in depth presentation on his Node powered hardware project and Rami will show us how to make Node development in Visual Studio more awesome.",
+   "specialevent": "sungard-beer.html",
+   "speakers": [{
+      "title": "Mise en lumière de votre JavaScript!",
+      "email": "sabascabot@gmail.com",
+      "name": "Sebastien Cabot",
+      "url": "Missing",
+      "synopsis": "Au cours de cette heure, nous souhaitons partager avec vous notre démarche pour parvenir à contrôler une bande DEL RVB via une interface Web, et cela en n'utilisant aucun autre langage que le JavaScript. Notre but est de vous initier à la quantité phénoménale d'interactions au monde physique qui vous est accessible avec la plateforme d'expérimentation BeagleBone Black et vos connaissances JavaScript.",
+      "links": [{
+         "url": "http://beagleboard.org/Products/BeagleBone",
+         "title": "The BeagleBone"
+      }, {
+         "url": "http://www.nodejs.com",
+         "title": "NodeJS"
+      }]
+   }, {
+      "title": "Turning Visual Studio into a NodeJS IDE",
+      "email": "rami.sayar@microsoft.com",
+      "name": "Rami Sayar",
+      "url": "http://wootstudio.ca",
+      "synopsis": "Rami Sayar is a Microsoft Technical Evangelist based in Montreal (@ramisayar). He will be demoing the latest tools for Node JS and Visual Studio. NTVS allows you develop and debug nodejs web apps while retaining all the IDE features and power of Visual Studio. You can manage NPM packages for your projects, perform remote debugging and more.",
+      "links": [{
+         "url": "https://nodejstools.codeplex.com/",
+         "title": "NodeJS For Visual Studio"
+      }]
+   }]
+}, {
+   "num": 38,
+   "title": "Winter",
+   "on": "20140211",
+   "singleSession": true,
+   "blurb": "This month we have a single session special event. etelesolv is providing the pizza and beer and Steve will bring food for thought on front-end app architecture.",
+   "specialevent": "etelesolv-beer.html",
+   "speakers": [{
+      "title": "Front-End Web App Architecture",
+      "email": "ckm2k1@gmail.com",
+      "name": "Steve Venzerul",
+      "url": "https://github.com/ckm2k1",
+      "synopsis": "Front-end apps are all the rage nowadays and the tool chain has never been better, but what's behind all the magic? what makes a modern front-end JS app tick? We will be looking at all those questions and much more.",
+      "links": [{
+         "title": "Addy Osmany on front-end architecture",
+         "url": "http://addyosmani.com/largescalejavascript/"
+       }, {
+         "title": "Excellent e-book on developing front-end Backbone apps.",
+         "url": "http://addyosmani.github.io/backbone-fundamentals/"
+       }]
+   }]
+}, {
+   "num": 39,
+   "title": "Winter",
+   "on": "20140311",
+   "singleSession": false,
+   "blurb": "This month, we have cats! and Functional Reactive Bindings, which sadly have no cats involved, but are very interesting nonetheless.",
+   "specialevent": "eightysix-beer.html",
+   "speakers": [{
+      "title": "Cat-DNS: a DNS server that resolves everything to cats",
+      "email": "mdinculescu@gmail.com",
+      "name": "Monica Dinculescu",
+      "url": "http://notwaldorf.github.io/posts/go-cat-dns-go/",
+      "synopsis": "The internet needs more cats. DNS servers are the authority on all things internet. Therefore, the best DNS server is the one that resolves everything to cats. We'll talk about DNS servers: how they work, how your browser talks to them, and how to write a DNS server that always gives you a cat in less than 200 lines of JavaScript.",
+      "links": [{
+         "title": "Github Repo",
+         "url": "https://github.com/notwaldorf/cat-dns"
+       }, {
+         "title": "Blog Post",
+         "url": "http://notwaldorf.github.io/posts/go-cat-dns-go/"
+       }]
+   }, {
+      "title": "D3 & FRB: A case study in binding and editable DataViz",
+      "email": "gina.c.cook@gmail.com",
+      "name": "Gina Cook",
+      "url": "http://gina.ilanguage.ca/",
+      "synopsis": "Functional Reactive Bindings go beyond just two-way data binding. They can gracefully bind long property paths and the contents of collections. They can also incrementally update the results of chains of queries including maps, flattened arrays, sums, and averages. In this talk I'll demo a framework agnostic graph visualization dashboard built using D3 and FRB which can be embedded in any client side app as a Bower component, or server side app as an NPM module.",
+      "links": [{
+         "title": "Github Repo",
+         "url": "https://github.com/montagejs/frb"
+       }, {
+         "title": "Blog",
+         "url": "http://gina.ilanguage.ca/"
+       }]
+   }]
+}, {
+   "num": 39,
+   "title": "Spring",
+   "on": "20140408",
+   "singleSession": true,
+   "blurb": "Spring brings us yet another snow storm and some beautiful streams and tools to keep our minds off the weather.",
+   "specialevent": "turbulent-beer.html",
+   "speakers": [{
+      "title": "Streaming the Internet of Things with Javascript.",
+      "email": "ben@plot.ly",
+      "name": "Ben Postlethwaite",
+      "url": "https://plot.ly",
+      "synopsis": "Javascript is everywhere and the maker movement is bringing affordable and hackable devices to a wider audience. At the same time Node provides us with a set of asynchronous primitives perfectly suited to wiring all of this together. Over the last few months this is exactly what we have been doing at Plotly. We want to share our experiences working with streams and real-time data in the server and client. We have some great demo's and projects so signup for Plotly and bring your laptops!",
+      "links": [{
+         "title": "NPM Module",
+         "url": "https://github.com/plotly/plotly-nodejs"
+       }, {
+         "title": "Streaming API",
+         "url": "https://plot.ly/api/streaming/"
+       }]
+   }]
+}, {
+   "num": 40,
+   "title": "Spring",
+   "on": "20140513",
+   "singleSession": false,
+   "blurb": "This month, Kasper shows us some tooling tricks, and Rodric demystifies Angular.",
+   "specialevent": false,
+   "speakers": [{
+      "title": "Supercharge your workflow through frontend tooling",
+      "email": "kasperisager@gmail.com",
+      "name": "Kasper Isager",
+      "url": "https://github.com/kasperisager",
+      "synopsis": "Writing Javascript applications for the browser is often a chaotic and fragmented experience. With a vast selection of technology at our disposal, bringing it all together is often time consuming and prone to error. Dependency management, code optimization, and portability are all part of the constant struggle.",
+      "links": [{
+         "title": "Kasper's Github",
+         "url": "https://github.com/kasperisager"
+       }, {
+         "title": "Book of Modern Frontend Tooling",
+         "url": "http://tooling.github.io/book-of-modern-frontend-tooling/"
+       }]
+   }, {
+      "title": "Let's Talk About Angular",
+      "email": "rody@rodyhaddad.com",
+      "name": "Rodric Haddad",
+      "url": "https://twitter.com/rodyhaddad",
+      "synopsis": "With concepts like $scope, Dependency Injection and Directives, AngularJS isn't always a walk in the park for the regular JavaScript aficionado. Rodric will walk us through these concepts, along with live demos to showcase them, and a production app built on top of the framework to put it all together.",
+      "links": [{
+         "title": "Personal Website",
+         "url": "http://rodyhaddad.com"
+       }]
+   }]
+}, {
+   "num": 41,
+   "title": "Summer",
+   "on": "20140610",
+   "singleSession": false,
+   "blurb": "Summer is in the air, and there's nothing like a nice cold serving of Javascript to keep you cool.",
+   "specialevent": false,
+   "speakers": [{
+      "title": "Advanced web debugging tools",
+      "email": "kevin.vicrey@nexu.org",
+      "name": "Kevin Vicrey",
+      "url": "https://vickev.com",
+      "synopsis": "Web applications getting more and more complex, bugs and performance issues can be difficult to find out. Using breakpoints in the debugging tool is a first step, but in this talk, we will focus more on advanced features.",
+      "links": [{
+         "title": "Personal Website",
+         "url": "https://vickev.com"
+       }]
+   }, {
+      "title": "Pourquoi et comment les Web Components?",
+      "email": "sacha.lepretre@gmail.com",
+      "name": "Sacha Leprêtre",
+      "url": "https://twitter.com/sachalepretre",
+     "synopsis": "Les Web Components (W3C) sont très prometteurs pour le web,les librairies/polyfills telle que Polymer, X-tag/ Brick nous permettent d'en bénéficier dés à présent.<br><br>Mais qui a-t-il derrière ces librairies?<br><br>Afin de nous éclairer sur des éventuels choix technologiques, Sacha va nous présenter les stratégies utilisées par celles-ci et nous donner un rapide aperçu sur Lïghtly la librairie qu'il a conçu.",
+      "links": []
+   }]
+}, {
+   "num": 42,
+   "title": "Summer",
+   "on": "20140708",
+   "singleSession": false,
+   "blurb": "Summer is in the air, and there's nothing like a nice cold serving of Javascript to keep you cool.",
+   "specialevent": false,
+   "speakers": [{
+      "title": "React",
+      "email": "danielrobertsdesign@gmail.com",
+      "name": "Daniel Roberts",
+      "url": "https://infoactive.co/",
+      "synopsis": "React is a recently released library built at Facebook and Instagram that's making a lot of waves. Daniel will show you what you need to know to get started and illustrate how it can work alongside more traditional libraries such as Backbone.",
+      "links": [{
+         "title": "React",
+         "url": "http://facebook.github.io/react/"
+       }]
+   }, {
+      "title": "Happy Parsing",
+      "email": "florent@icangowithout.com",
+      "name": "Florent Vilmart",
+      "url": "https://github.com/flovilmart",
+     "synopsis": "Parse is a popular platform that greatly simplifies the backend side of web and mobile apps. Florent has been an active user for a while and will quickly get us up to speed on the basics and follow up with power tips and advanced usage.",
+      "links": [{
+         "title": "parse-develop",
+         "url": "https://github.com/flovilmart/parse-develop"
+      }]
+   }]
+}, {
+   "num": 43,
+   "title": "Fall",
+   "on": "20140909",
+   "singleSession": true,
+   "blurb": "Join us this Fall for a cool breeze of fresh Javascript and it's newly minted features.",
+   "specialevent": "acquisio-beer.html",
+   "speakers": [{
+      "title": "ECMAScript 6: The Next Generation",
+      "email": "ckm2k1@gmail.com",
+      "name": "Steve Venzerul",
+      "url": "https://github.com/ckm2k1",
+     "synopsis": "The ECMAScript 6 spec brings a host of new features and API goodies to our favourite language. This talk will explore some of the new language constructs and APIs being introduced into Javascript, and which development pains they're designed to alleviate. Lastly, we'll see how we can leverage the features of tomorrow, today!",
+      "links": [{
+         "title": "The Official ECMAScript 6 Spec",
+         "url": "https://people.mozilla.org/~jorendorff/es6-draft.html"
+      }, {
+         "title": "NodeJS and the Harmony Flag",
+         "url": "http://dailyjs.com/2012/10/15/preparing-for-esnext/"
+      }]
+   }]
+}, {
+   "num": 44,
+   "title": "Fall",
+   "on": "20141014",
+   "singleSession": false,
+   "blurb": "Fall is here, it's time for sweaters, wooly socks, and warm cup of Javascript.",
+   "specialevent": false,
+   "speakers": [{
+      "title": "The Greensock Animations Platform",
+      "email": "m.vezina@la-grange.ca",
+      "name": "Martin Vézina",
+      "url": "https://github.com/mgvez",
+     "synopsis": "Greensock Animation Platform is an amazing library used to design high performance animations for the web. Its flexibility makes it possible to construct complex animation sequences and integrate them into your workflow with mimimum effort, and its simplicity bridges the gap between the motion designer and the programmer.",
+      "links": [{
+         "title": "Greensock Animations",
+         "url": "https://greensock.com/"
+      }, {
+         "title": "LaGrange Technical Blog",
+         "url": "http://lab.la-grange.ca/"
+      }]
+   }]
+}, {
+   "num": 45,
+   "title": "Cold hands, Warm data",
+   "on": "20141111",
+   "singleSession": false,
+   "blurb": "This month: Chrome extensions and Web Components. La présentation Web Components est une collaboration avec nos amis de <a href=\"http://gtugmontreal.blogspot.ca\">GDG Montreal</a>.",
+   "specialevent": false,
+   "speakers": [{
+      "title": "BabelFrog, a Chrome Extension",
+      "email": "alex@evolvingweb.ca",
+      "name": "Alex Dergachev",
+      "url": "http://evolvingweb.ca",
+      "synopsis": "Alex Dergachev recently built a simple Chrome Extension called BabelFrog to help him learn languages. Alex will show us how he did this and follow up with a discussion about chrome extensions: What you can do with them, how to get started making one, and some tricks he figured out along the way.",
+      "links": [{
+         "title": "BabelFrog",
+         "url": "http://babelfrog.com"
+      }, {
+         "title": "BabelFrog (Github)",
+         "url": "https://github.com/dergachev/babelfrog"
+      }]
+   }, {
+      "title": "Retour: Pourquoi et comment les Web Components?",
+      "email": "sacha.lepretre@gmail.com",
+      "name": "Sacha Leprêtre",
+      "url": "https://twitter.com/sachalepretre",
+      "synopsis": "Les Web Components (W3C) sont très prometteurs pour le web et les outils tels que Polymer, X-tag et Brick nous permettent d'en bénéficier dès à présent.<br><br>Mais qui a-t-il derrière ces librairies?<br><br>Pour éclairer nos choix technologiques, Sacha fait un retour sur sa présentation de Juin passé, avec des mise à jours importantes.",
+      "links": []
+   }]
+}, {
+   "num": 46,
+   "title": "WebVR, brings you the holidays, in 3D!",
+   "on": "20141209",
+   "singleSession": true,
+   "blurb": "Join us this holiday season in exploring the link between VR hardware like Oculus Rift and the WebVR spec experimentally implemeted in Chrome and Firefox.",
+   "specialevent": false,
+   "speakers": [{
+      "title": "WebVR and Oculus Rift",
+      "email": "khoury.marc@gmail.com",
+      "name": "Marc Khoury",
+      "url": "http://www.kronos.com/",
+      "synopsis": "Virtual Reality is coming fast to the general public, with the Oculus Rift leading the charge. Together we'll look at what the Oculus Rift is, and how we can approach development for it. The WebVR API provided in Firefox and Chrome will allow us to bring VR to the web using JavaScript. In the presentation, we'll learn how to integrate VR support into a THREE.js scene so that you can start building your own VR apps",
+      "links": [{
+         "title": "Oculus Rift",
+         "url": "https://www.oculus.com/"
+      }, {
+         "title": "What is WebVR?",
+         "url": "http://blog.tojicode.com/2014/07/bringing-vr-to-chrome.html"
+      }, {
+         "title": "Marc's Github",
+         "url": "https://github.com/koganei"
+      }]
+   }]
+}, {
+   "num": 47,
+   "title": "<a href=\"http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html\">Language of the year</a>",
+   "on": "20150113",
+   "singleSession": false,
+   "blurb": "This month: A bit of Angular and a walk through ES6 modules. Our friends at etelesolv are back with beer and pizza, so come early! Doors open at 18:00.",
+   "specialevent": "etelesolv-beer.html",
+   "speakers": [{
+      "title": "Flexible declarative drag & drop for Angular",
+      "email": "ggoodman@gmail.com",
+      "name": "Geoff Goodman",
+      "url": "https://twitter.com/filearts",
+      "synopsis": "Geoff Goodman is the author and maintainer of Plunker. Facing particular UI challenges, he set out to create a directive that makes declarative drag & drop in Angular flexible and easy. He will tell us more about how it is built and the tools he used to create it.",
+      "links": [{
+         "title": "angular-drag-drop",
+         "url": "https://github.com/ggoodman/angular-drag-drop"
+      }, {
+         "title": "Plunker",
+         "url": "http://plnkr.co"
+      }]
+   }, {
+      "title": "Pull the trigger on ES6 Modules",
+      "email": "neonskimmer@gmail.com",
+      "name": "Bruno Carriere",
+      "url": "https://twitter.com/jsmontreal",
+      "synopsis": "After years of turmoil and experimentation, JavaScript is set to have a proper module system in ES6. Bruno will show us how easy it is to take advantage of them today and present typical usage patterns.",
+      "links": [{
+         "title": "jsmodules.io",
+         "url": "http://jsmodules.io"
+      }, {
+         "title": "ES6 Modules: The Final Syntax",
+         "url": "http://www.2ality.com/2014/09/es6-modules-final.html"
+      }]
+   }]
+}, {
+   "num": 48,
+   "title": "Yeoman FTW",
+   "on": "20150210",
+   "singleSession": false,
+   "blurb": "Join us this month for a great bit of automation with Yeoman. Automate all the things!",
+   "specialevent": false,
+   "speakers": [{
+      "title": "Building you own Yeoman Generator",
+      "email": "ruyadorno@gmail.com",
+      "name": "Ruy Adorno",
+      "url": "https://twitter.com/ruyadorno",
+      "synopsis": "Generators are the building blocks of the Yeoman ecosystem and you don't need to be limited to only using the existing ones. In this talk we are going through an overview on how to create your own generator and automate your project setup process.",
+      "links": [{
+         "title": "Yeoman Website",
+         "url": "http://yeoman.io"
+      }, {
+         "title": "Guide To Generators",
+         "url": "http://yeoman.io/authoring/"
+      }]
+   }, {
+      "title": "Hands-on with Yeoman",
+      "email": "rami.sayar@microsoft.com",
+      "name": "Rami Sayar",
+      "url": "http://twitter.com/ramisayar",
+      "synopsis": "Yeoman is a tool designed for front-end web developers. It helps you start new projects right by providing a generator ecosystem. A generator helps define the scaffold for your projects and generators useful code for your starter project. In this talk, I will introduce you the Yeoman Workflow and the different tools, share my favorite generators.",
+      "links": [{
+         "title": "Yeoman Learning Resources",
+         "url": "http://yeoman.io/learning/resources.html"
+      }]
+   }]
+}, {
+   "num": 49,
+   "title": "Javascript Spring Break",
+   "on": "20150310",
+   "singleSession": false,
+   "blurb": "Join us this month for a nice dose of functional JS.",
+   "specialevent": false,
+   "speakers": [{
+      "title": "Manipulating data structures with JavaScript data type's methods",
+      "email": "sebastienfilion@me.com",
+      "name": "Sebastien Filion",
+      "url": "https://twitter.com/sebastienfilion",
+      "synopsis": "Using JavaScripts data type's methods is a flexible way of manipulating data structures; Discover functional programing and how to make the most out these expressive techniques. After this talk you will be able to solve everyday problems elegantly.",
+      "links": [{
+         "title": "Functional Programming",
+         "url": "http://eloquentjavascript.net/1st_edition/chapter6.html"
+      }]
+   }]
+}, {
+   "num": 52,
+   "title": "RAML + Inker",
+   "on": "20150609",
+   "singleSession": false,
+   "blurb": "This month: one more acronym you have to pretend to know about and a great new way to deal with email development without pulling your hair out.",
+   "speakers": [{
+      "title": "RAML: Describe your APIs",
+      "email": "jonathan@brandicted.com",
+      "name": "Jonathan Stoikovich",
+      "url": "https://brandicted.com/",
+      "synopsis": "RESTful API Modeling Language (RAML) is a simple and succinct way of describing practically-RESTful APIs. It encourages reuse, enables discovery and pattern-sharing, and aims for merit-based emergence of best practices. This presentation will demonstrate how to generate a JavaScript client from a RAML file and use that client in your projects.",
+      "links": [{
+         "title": "RAML",
+         "url": "http://raml.org/"
+      },{
+         "title": "RAML generated client example",
+         "url": "https://github.com/jstoiko/raml-javascript-client"
+      }]
+   },{
+      "title": "Inker: Rethinking how we manage email development & transactional delivery",
+      "email": "cedric.dugas@gmail.com",
+      "name": "Cedric Dugas",
+      "url": "http://www.position-absolute.com",
+      "synopsis": "Sujet difficile pour tout front-end dev, le développement d'email est souvent mal aimé et mépris. Voyons pourquoi nous sommes encore a faire des tables dans un monde ou les technologies front-end évolue rapidement et comment on peut améliorer ca de façons significative.",
+      "links": [{
+         "title": "Inker",
+         "url": "http://inker.position-absolute.com/"
+      }, {
+         "title": "Rethinking how we manage email development & transactional delivery",
+         "url": "http://www.position-absolute.com/articles/trends/its-time-to-rethink-how-we-manage-email-development-delivery/"
+      }]
+   }]
+}, {
+   "num": 53,
+   "title": "All things EcmaScript 6",
+   "on": "20150714",
+   "singleSession": true,
+   "blurb": "This month: join us for a scooba dive in the newly approved ES6 features, WebAssembly, ASM.js and what all these buzz words mean for the web.",
+   "speakers": [{
+      "title": "ES6: Diving Deeper",
+      "email": "ckm2k1@gmail.com",
+      "name": "Steve Venzerul",
+      "url": "https://github.com/ckm2k1",
+      "synopsis": "In my previous talk we saw an intro to new ES6 features, but everything was still in flux. Now that TC39 has finally approved the draft it's time to get a good feel for what's new and exciting in ES6. Additionaly we'll discuss the latest and greatest 'WebAssembly' and what it means for Javascript.",
+      "links": [{
+         "title": "Approved draft of ES6",
+         "url": "http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts"
+      }, {
+         "title": "Best current implementation of ES6 features. Start using it today!",
+         "url": "https://babeljs.io/"
+      }]
+   }]
+}, {
+   "num": 54,
+   "title": "It's all fun and games",
+   "on": "20150811",
+   "singleSession": false,
+   "blurb": "This month is all about fun, as we dig into some cool frameworks used to build games in JavaScript. Get down with Osman Zeki and music games and take a trip through nostalgia land with Justin Stahlman.",
+   "speakers": [{
+      "title": "Using Phaser to build a music game",
+      "email": "ozeki.media@gmail.com",
+      "name": "Osman Zeki",
+      "url": "https://github.com/osmanzeki",
+      "synopsis": "In this talk Osman will discuss how his team used Phaser to develop a browser-based HTML5 Arcade/Music game that had to run on desktops and tablets. He'll describe the cross-browser compatibility, audio-visual synchronization and performance challenges they faced and give examples of how the engine's many features were used.",
+      "links": [{
+         "title": "Phaser: Desktop & Mobile HTML5 game framework",
+         "url": "http://phaser.io/"
+      }, {
+         "title": "Jam TFO: Le Jeu",
+         "url": "http://jam.tfo.org/jeu"
+      }]
+   }, {
+      "title": "Retro pixel games with ImpactJS",
+      "email": "jstahlman@mac.com",
+      "name": "Justin Stahlman",
+      "url": "http://www.stahlmandesign.com/",
+      "synopsis": "Justin has been wanting to make computer games since Space Invaders in 1982. That led him to teach himself game programming on the Apple II, then DOS, and eventually, years later, JavaScript. Retro pixel art and games are trendy again and he used the explosion of JS libraries and pixel-art nostalgia to remake some of the games of his youth -- and finally a new original game.",
+      "links": [{
+         "title": "Impact: THE AWESOMEST WAY TO CREATE EVEN MORE AWESOME HTML5 GAMES!",
+         "url": "http://impactjs.com/"
+      }, {
+         "title": "The Dreamsong",
+         "url": "http://www.stahlmandesign.com/games/dreamsong/index.html"
+      }]
+   }]
+}, {
+   "num": 55,
+   "title": "Goodbyes / Hellos",
+   "on": "20150908",
+   "singleSession": false,
+   "blurb": "This will be our last meetup at the Radialpoint location. They have been amazing hosts. <strong>Thank you!</strong><br><br>This month: Package all the things with Webpack. Typed languages are more your type? Try TypeScript.",
+   "specialevent": "appdirect-beer.html",
+   "speakers": [{
+      "title": "Webpack is your friend",
+      "email": "charles@snipcart.com",
+      "name": "Charles Ouellet",
+      "url": "https://twitter.com/couellet",
+      "synopsis": "<a href='http://webpack.github.io/'>Webpack</a> is a module bundler that allows you to use multiple module definition systems, making refactoring of large scale single page applications much smoother. Charles will explain how to get started with Webpack, the main concepts behind the tool, and show us quick demos.",
+      "links": [{
+         "title": "Webpack",
+         "url": "http://webpack.github.io/"
+      }]
+   }, {
+      "title": "TypeScript",
+      "email": "marekz@gmail.com",
+      "name": "Marek Zaluski",
+      "url": "http://www.marekzaluski.com/",
+      "synopsis": "TypeScript is an open source, typed superset of JavaScript. It is backed by Microsoft and usable everywhere JavaScript runs. Marek has been using it for a while and is going to tell us what he loves about it and how to get started.",
+      "links": [{
+         "title": "TypeScript",
+         "url": "http://www.typescriptlang.org/"
+      }]
+   }]
+}, {
+   "num": 56,
+   "title": "On React",
+   "on": "20151013",
+   "singleSession": false,
+   "blurb": "<strong>We have moved!<br>This month, we will be meeting at <a href=\"https://garemtl.com/en/\">La Gare</a></strong><br><br>Our subjects: React, Flux and Redux. Come early to hangout and meet our sponsor, AppDirect. Doors will open at 6pm.",
+   "specialevent": "appdirect-beer.html",
+   "speakers": [{
+      "title": "React & Flux",
+      "email": "kevin.vicrey@nexu.org",
+      "name": "Kevin Vicrey",
+      "url": "http://vickev.com/",
+      "synopsis": "<a href=\"https://facebook.github.io/react/\">React</a> and <a href=\"https://facebook.github.io/flux/\">Flux</a> are an open source library and architecture from Facebook to build web applications. Kevin will introduce these concepts and share his impressions, good and bad, after 6 months of use on a concrete project.",
+      "links": [{
+         "title": "React",
+         "url": "https://facebook.github.io/react/"
+      }, {
+         "title": "Flux",
+         "url": "https://facebook.github.io/flux/"
+      }]
+   }, {
+      "title": "Redux, Flux Evolved",
+      "email": "gwwfps@gmail.com",
+      "name": "David Zhang",
+      "url": "http://github.com/gwwfps/",
+      "synopsis": "Redux is a fresh new take on a Flux-like architecture for React-based applications. Like how React and the virtual DOM enabled easily building stateless view components, Redux brings the same convenience to the rest of your application. By managing application state in the framework, all of your code can be pure functions. As you'll see, when you do that, magic happens...",
+      "links": [{
+         "title": "Redux",
+         "url": "https://github.com/rackt/redux"
+      }]
+   }]
+}, {
+   "num": 57,
+   "title": "JavaScript & the Internet Of Things",
+   "on": "20151110",
+   "singleSession": true,
+   "blurb": "<strong>We have moved!<br>This month, we will be meeting at <a href=\"https://garemtl.com/en/\">La Gare</a></strong><br><br>Our subject: JavaScript and the Internet of things. Just when you thought you were safe, JavaScript spreads its tentacles into your hardware. Doors open at 6pm.",
+   "specialevent": "intel-beer.html",
+   "speakers": [{
+      "title": "JavaScript & Physical Computing",
+      "email": "jp@cote.cc",
+      "name": "Jean-Philippe Côté",
+      "url": "http://tangiblejs.com/",
+      "synopsis": "Jean-Philippe will show us how easy it is for JavaScripters to write code that interacts with the physical world. Using NW.js and a Phidgets I/O board, we will break out of the virtual realm and gain access to the real, tangible world. Web developers will find that venturing outside the security of the browser sandbox can be quite a thrill…",
+      "links": [{
+         "title": "NW.js",
+         "url": "http://nwjs.io/"
+      }, {
+         "title": "Phidgets",
+         "url": "http://www.phidgets.com/"
+      }]
+   }]
+}, {
+   "num": 58,
+   "title": "Another year of JavaScript",
+   "on": "20151208",
+   "singleSession": false,
+   "blurb": "'Server-less' webapps with webtask.io and our yearly retrospective.",
+   "specialevent": "roi-beer.html",
+   "speakers": [{
+      "title": "webtask.io",
+      "email": "ggoodman@gmail.com",
+      "name": "Geoff Goodman",
+      "url": "https://twitter.com/filearts",
+      "synopsis": "Imagine you could write powerful web applications without a backend, provisioning or deployment. Using only JavaScript. Geoff will explain some of the magic behind webtask.io and how you can use it today.",
+      "links": [{
+         "title": "webtask.io",
+         "url": "https://webtask.io/"
+      }]
+   }, {
+      "title": "This year in JavaScript",
+      "email": "contact@js-montreal.org",
+      "name": "Steve Venzerul & Bruno Carriere",
+      "url": "http://js-montreal.org/",
+      "synopsis": "Another crazy year gone by in the world of JavaScript. Join us as we go over the major trends for this year and our predictions for next year.",
+      "links": [{
+         "title": "JavaScript 2015 (slides)",
+         "url": "http://slides.com/signupskm/js-2015-retrospective-5#/"
+      }]
+   }]
+}]

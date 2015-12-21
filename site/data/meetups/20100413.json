@@ -1,0 +1,57 @@
+{
+  "num": 3,
+  "title": "Node JS: An introduction",
+  "on": "20100413",
+  "speakers": [
+    {
+      "title": "Node JS: An introduction",
+      "email": "alexis@cloudhead.net",
+      "name": "Alexis Sellier",
+      "url": "http://cloudhead.io/",
+      "synopsis": "Node JS is an evented IO framework built on top of V8 Javascript. It's particularly useful for building http-based servers and JavaScript is a great match for event-based programming. Alexis has been playing with it for a while and will get us up to speed.",
+      "links": [
+        {
+          "url": "http://nodejs.org",
+          "title": "Node JS"
+        },
+        {
+          "url": "http://github.com/cloudhead/node-intro",
+          "title": "Presentation slides and code (Github)"
+        },
+        {
+          "url": "files/node-intro.pdf",
+          "title": "PDF"
+        }
+      ]
+    },
+    {
+      "title": "Since we last met...",
+      "name": "Bruno Carriere",
+      "url": "http://js-montreal.org",
+      "email": "neonskimmer@gmail.com",
+      "synopsis": "An overview of what happened since our last meeting, in February.",
+      "links": [
+        {
+          "url": "files/js-montreal-3.pdf",
+          "title": "Slides [PDF]"
+        },
+        {
+          "url": "http://www.youtube.com/user/amicalmant",
+          "title": "Confoo 2010 on Youtube"
+        },
+        {
+          "url": "http://yuiblog.com/crockford",
+          "title": "Crockford on JavaScript"
+        },
+        {
+          "url": "http://crockfordfacts.com",
+          "title": "Crockford facts"
+        },
+        {
+          "url": "http://prototypejs.org",
+          "title": "Prototype"
+        }
+      ]
+    }
+  ]
+}

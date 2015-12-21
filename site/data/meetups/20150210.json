@@ -1,0 +1,40 @@
+{
+  "num": 48,
+  "title": "Yeoman FTW",
+  "on": "20150210",
+  "singleSession": false,
+  "blurb": "Join us this month for a great bit of automation with Yeoman. Automate all the things!",
+  "specialevent": false,
+  "speakers": [
+    {
+      "title": "Building you own Yeoman Generator",
+      "email": "ruyadorno@gmail.com",
+      "name": "Ruy Adorno",
+      "url": "https://twitter.com/ruyadorno",
+      "synopsis": "Generators are the building blocks of the Yeoman ecosystem and you don't need to be limited to only using the existing ones. In this talk we are going through an overview on how to create your own generator and automate your project setup process.",
+      "links": [
+        {
+          "title": "Yeoman Website",
+          "url": "http://yeoman.io"
+        },
+        {
+          "title": "Guide To Generators",
+          "url": "http://yeoman.io/authoring/"
+        }
+      ]
+    },
+    {
+      "title": "Hands-on with Yeoman",
+      "email": "rami.sayar@microsoft.com",
+      "name": "Rami Sayar",
+      "url": "http://twitter.com/ramisayar",
+      "synopsis": "Yeoman is a tool designed for front-end web developers. It helps you start new projects right by providing a generator ecosystem. A generator helps define the scaffold for your projects and generators useful code for your starter project. In this talk, I will introduce you the Yeoman Workflow and the different tools, share my favorite generators.",
+      "links": [
+        {
+          "title": "Yeoman Learning Resources",
+          "url": "http://yeoman.io/learning/resources.html"
+        }
+      ]
+    }
+  ]
+}

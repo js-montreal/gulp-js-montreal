@@ -1,0 +1,27 @@
+{
+  "num": 43,
+  "title": "Fall",
+  "on": "20140909",
+  "singleSession": true,
+  "blurb": "Join us this Fall for a cool breeze of fresh Javascript and it's newly minted features.",
+  "specialevent": "acquisio-beer.html",
+  "speakers": [
+    {
+      "title": "ECMAScript 6: The Next Generation",
+      "email": "ckm2k1@gmail.com",
+      "name": "Steve Venzerul",
+      "url": "https://github.com/ckm2k1",
+      "synopsis": "The ECMAScript 6 spec brings a host of new features and API goodies to our favourite language. This talk will explore some of the new language constructs and APIs being introduced into Javascript, and which development pains they're designed to alleviate. Lastly, we'll see how we can leverage the features of tomorrow, today!",
+      "links": [
+        {
+          "title": "The Official ECMAScript 6 Spec",
+          "url": "https://people.mozilla.org/~jorendorff/es6-draft.html"
+        },
+        {
+          "title": "NodeJS and the Harmony Flag",
+          "url": "http://dailyjs.com/2012/10/15/preparing-for-esnext/"
+        }
+      ]
+    }
+  ]
+}
