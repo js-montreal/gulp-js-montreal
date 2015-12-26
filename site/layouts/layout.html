@@ -5,10 +5,10 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
-  <title>ur title</title>
-  <meta name="description" content="<%= @getPreparedDescription() %>" />
-  <meta name="keywords" content="<%= @getPreparedKeywords() %>" />
-  <meta name="author" content="<%= @site.author or '' %>" />
+  <title>{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}" />
+  <meta name="keywords" content="{{ site.keywords }}" />
+  <meta name="author" content="{{ site.author }}" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <link rel="shortcut icon" href="icons/favicon.ico">
@@ -16,6 +16,7 @@
   <link rel="apple-touch-icon-precomposed" sizes="114x114" href="icons/apple-touch-icon-114-precomposed.png">
   <link rel="apple-touch-icon-precomposed" sizes="72x72" href="icons/apple-touch-icon-72-precomposed.png">
   <link rel="apple-touch-icon-precomposed" href="icons/apple-touch-icon-57-precomposed.png">
+  <link rel="stylesheet" href="css/js-mtl.css">
 
   <script>
     var _gaq = _gaq || [];
@@ -33,10 +34,12 @@
   </script>
 </head>
 <body>
+  {% include "header.html" %}
   <div class="container">
     <section id="content" class="content">
-    {% block content %}{$ endblock %}
+    {% block content %}{% endblock %}
     </section>
   </div>
+  {% include "footer.html" %}
 </body>
 </html>

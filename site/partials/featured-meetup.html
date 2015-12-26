@@ -1,0 +1,34 @@
+{% set noTalksYet = meetup.speakers.length == 0 %}
+{% set booked = meetup.speakers.length == 2 %}
+
+<div class="row meetup">
+  {% if noTalksYet %}
+  <div class="col-md-10">
+    <a class="btn btn-info" href="mailto:contact@js-montreal.org">Submit a talk for the upcoming meetup</a>
+  </div>
+  {% else %}
+  <div class="col-md-5">
+    <div class="speaker">
+      {% set speaker = meetup.speakers[0] %}
+      {% include "speaker.html" %}
+    </div>
+  </div>
+  <div class="col-md-5 col-md-offset-1">
+    <div class="speaker">
+      {% if booked %}
+        {% set speaker = meetup.speakers[1] %}
+        {% include "speaker.html" %}
+      {% else %}
+        {% if meetup.singleSession %}
+        &nbsp;
+        {% else %}
+        <br/>
+        <br/>
+        <a class="btn btn-info" href="mailto:contact@js-montreal.org">Looks like there's space for one more presentation!</a>
+        {% endif %}
+      {% endif %}
+    </div>
+  </div>
+  {% endif %}
+</div>
+{% include "location.html" %}

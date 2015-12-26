@@ -1,4 +1,5 @@
-{% extends "layout.html.nunjucks" %}
+{% extends "layout.html" %}
 {% block content %}
-yo meetup goes here
+{% include "featured-meetup-header.html" %}
+{% include "featured-meetup.html" %}
 {% endblock %}

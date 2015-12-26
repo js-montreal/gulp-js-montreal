@@ -1,0 +1,226 @@
+@import "variables.less";
+@import "twitter-bootstrap.less";
+@import "bootswatch.less";
+
+// Applies to the Google map
+iframe, object, embed { width: 100%; }
+
+html, body {
+  background-color: #fafafa;
+}
+
+// Container for the are with the meetup title and description + register box
+.top-unit {
+  text-align: left;
+
+  padding: 0px;
+  margin-bottom: 2em;
+  background-color: transparent;
+
+  .register {
+    border: 1px solid #d4d4d4;
+    padding: 16px;
+    border-style: none none none solid;
+  }
+}
+
+.small-register {
+  margin-top: 3em;
+  text-align: center;
+}
+
+.main-navbar {
+  background: transparent;
+  border: none;
+  .box-shadow(none);
+}
+
+.lil-padding {
+  padding: @table-cell-padding;
+}
+
+.lil-more-padding {
+  padding: @table-cell-padding * 2;
+}
+
+// Special event box that shows up when we have b+p, etc
+.special-event {
+  .well;
+
+  margin-top: 20px;
+  p {
+    margin-top: 1em;
+  }
+}
+
+.speaker {
+  @img-width: 100px;
+  @img-padding: 15px;
+
+  margin-bottom: 30px;
+
+  img.gravatar {
+    width: @img-width;
+    float: left;
+  }
+
+  .synopsis {
+    margin-top: 1em;
+
+    p {
+      margin-left: @img-width + @img-padding;
+      margin-top: -5px;
+    }
+  }
+
+  .speaker-links {
+    margin-left: @img-width + @img-padding;
+  }
+}
+
+.foto {
+  img {
+    padding: 4px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+  }
+
+
+  p {
+    font-size: @font-size-base;
+    padding-top: 4px;
+    text-align: center;
+    }
+}
+
+#map small a {
+  color: #71C4EB !important;
+  float: right;
+  border-bottom: none;
+}
+
+ol.directions {
+  font-size: 120%;
+  line-height: 1.2;
+}
+
+ul.objectives {
+  font-size: @font-size-base;
+  li {
+    color: #404040;
+    margin-bottom: 5px;
+  }
+}
+
+// Contact list w/ icons in footer
+
+ul.contact {
+  li {
+    padding-left: 24px;
+
+    &.meetup {
+      background: url(../img/icons/meetup.png) no-repeat scroll left bottom transparent;
+    }
+
+    &.facebook {
+      background: url(../img/icons/facebook.png) no-repeat scroll left bottom transparent;
+    }
+
+    &.linkedin {
+      background: url(../img/icons/linkedin.png) no-repeat scroll left bottom transparent;
+    }
+
+    &.twitter {
+      background: url(../img/icons/twitter-2.png) no-repeat scroll left bottom transparent;
+    }
+
+    &.email {
+      background: url(../img/icons/social-email.png) no-repeat scroll left bottom transparent;
+    }
+  }
+}
+
+.nav-simple {
+  margin-bottom: 0;
+  margin-top: 15px;
+  padding-left: 0; // Override default ul/ol
+  list-style: none;
+  .clearfix();
+
+  > li {
+    float: left;
+
+    > a {
+      padding: 15px 15px 15px 0px;
+      margin-right: 2px;
+      line-height: @line-height-base;
+      border: 1px solid transparent;
+    }
+  }
+}
+
+header {
+  position: relative;
+  margin-bottom: 20px;
+
+  #gradient > .vertical(#f2f2f2, #FAFAFA);
+
+  .main-navbar {
+    min-height: 0px;
+    margin-bottom: 0px;
+  }
+}
+
+footer {
+  margin-top: 4em;
+  min-height: 250px;
+  #gradient > .vertical(#FAFAFA, #f2f2f2);
+  border-top: 1px solid #d4d4d4;
+  padding-top: 1em;
+  h4 {
+    color: #d4d4d4;
+    text-shadow : 0px 1px 0.5px white;
+  }
+  ul {
+    li {
+      margin-bottom: 4px;
+    }
+  }
+}
+
+
+.map {
+  margin-top: 1em;
+}
+
+.fluid-wrapper {
+  position: relative;
+  //padding-bottom: 56.25%; /* 16:9 */
+  padding-bottom: 30.25%; /* 16:9 */
+  height: 0;
+}
+
+.fluid-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+      border: none;
+}
+
+.specialevent-h1 {
+  margin: 0;
+}
+
+.specialevent-logo {
+  width: 180px;
+}
+
+.important {
+  color: #428bca;
+  font-weight: bold;
+}

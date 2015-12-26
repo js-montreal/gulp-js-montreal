@@ -1,0 +1,18 @@
+{% include "meetup-header.html" %}
+<div class="row meetup">
+  <h2><small>{{ meetup.on }}</small></h2>
+  <div clas="col-md-6">
+    <div class="speaker">
+      {% set speaker = meetup.speakers[0] %}
+      {% include "speaker.html" %}
+    </div>
+  </div>
+  <div clas="col-md-6">
+    {% if meetup.speakers[1] %}
+    <div class="speaker">
+      {% set speaker = meetup.speakers[1] %}
+      {% include "speaker.html" %}
+    </div>
+    {% endif %}
+  </div>
+</div>

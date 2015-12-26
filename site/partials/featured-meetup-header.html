@@ -1,0 +1,28 @@
+{% if meetup.specialevent %}
+{% set starttime = " @ 18:00" %}
+{% else %}
+{% set starttime = " @ 19:00" %}
+{% endif %}
+<div class="top-unit">
+  <div class="row">
+    <div class="col-md-6">
+      <h2>
+        {{ meetup.on|longdate }}{{ starttime }}
+        <br/>
+        <small>{{ meetup.title }}</small>
+      </h2>
+      <p class="lead">{{ meetup.blurb }}</p>
+    </div>
+    <div class="col-md-6">
+      {% if meetup.specialevent %}
+      <div class="row">
+        <div class="col-md-12">
+          <div class="special-event">
+          {% include "events/" + meetup.specialevent %}
+          </div>
+        </div>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</div>
